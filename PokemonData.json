@@ -1,0 +1,2771 @@
+{
+	"Pokemons": {
+		"1": {
+			"Name": "Bulbasaur",
+			"Type": ["Grass", "Poison"],
+			"Total": 318,
+			"HP": 45,
+			"Attack": 49,
+			"Defense": 49,
+			"Sp. Atk": 65,
+			"Sp. Def": 65,
+			"Speed": 45
+		},
+		"2": {
+			"Name": "Ivysaur",
+			"Type": ["Grass", "Poison"],
+			"Total": 405,
+			"HP": 60,
+			"Attack": 62,
+			"Defense": 63,
+			"Sp. Atk": 80,
+			"Sp. Def": 80,
+			"Speed": 60
+		},
+		"3": {
+			"Name": "Venusaur",
+			"Type": ["Grass", "Poison"],
+			"Total": 525,
+			"HP": 80,
+			"Attack": 82,
+			"Defense": 83,
+			"Sp. Atk": 100,
+			"Sp. Def": 100,
+			"Speed": 80
+		},
+		"4": {
+			"Name": "Charmander",
+			"Type": ["Fire"],
+			"Total": 309,
+			"HP": 39,
+			"Attack": 52,
+			"Defense": 43,
+			"Sp. Atk": 60,
+			"Sp. Def": 50,
+			"Speed": 65
+		},
+		"5": {
+			"Name": "Charmeleon",
+			"Type": ["Fire"],
+			"Total": 405,
+			"HP": 58,
+			"Attack": 64,
+			"Defense": 58,
+			"Sp. Atk": 80,
+			"Sp. Def": 65,
+			"Speed": 80
+		},
+		"6": {
+			"Name": "Charizard",
+			"Type": ["Fire", "Flying"],
+			"Total": 534,
+			"HP": 78,
+			"Attack": 84,
+			"Defense": 78,
+			"Sp. Atk": 109,
+			"Sp. Def": 85,
+			"Speed": 100
+		},
+		"7": {
+			"Name": "Squirtle",
+			"Type": ["Water"],
+			"Total": 314,
+			"HP": 44,
+			"Attack": 48,
+			"Defense": 65,
+			"Sp. Atk": 50,
+			"Sp. Def": 64,
+			"Speed": 43
+		},
+		"8": {
+			"Name": "Wartortle",
+			"Type": ["Water"],
+			"Total": 405,
+			"HP": 59,
+			"Attack": 63,
+			"Defense": 80,
+			"Sp. Atk": 65,
+			"Sp. Def": 80,
+			"Speed": 58
+		},
+		"9": {
+			"Name": "Blastoise",
+			"Type": ["Water"],
+			"Total": 530,
+			"HP": 79,
+			"Attack": 83,
+			"Defense": 100,
+			"Sp. Atk": 85,
+			"Sp. Def": 105,
+			"Speed": 78
+		},
+		"10": {
+			"Name": "Caterpie",
+			"Type": ["Bug"],
+			"Total": 195,
+			"HP": 45,
+			"Attack": 30,
+			"Defense": 35,
+			"Sp. Atk": 20,
+			"Sp. Def": 20,
+			"Speed": 45
+		},
+		"11": {
+			"Name": "Metapod",
+			"Type": ["Bug"],
+			"Total": 205,
+			"HP": 50,
+			"Attack": 20,
+			"Defense": 55,
+			"Sp. Atk": 25,
+			"Sp. Def": 25,
+			"Speed": 30
+		},
+		"12": {
+			"Name": "Butterfree",
+			"Type": ["Bug", "Flying"],
+			"Total": 395,
+			"HP": 60,
+			"Attack": 45,
+			"Defense": 50,
+			"Sp. Atk": 90,
+			"Sp. Def": 80,
+			"Speed": 70
+		},
+		"13": {
+			"Name": "Weedle",
+			"Type": ["Bug", "Poison"],
+			"Total": 195,
+			"HP": 40,
+			"Attack": 35,
+			"Defense": 30,
+			"Sp. Atk": 20,
+			"Sp. Def": 20,
+			"Speed": 50
+		},
+		"14": {
+			"Name": "Kakuna",
+			"Type": ["Bug", "Poison"],
+			"Total": 205,
+			"HP": 45,
+			"Attack": 25,
+			"Defense": 50,
+			"Sp. Atk": 25,
+			"Sp. Def": 25,
+			"Speed": 35
+		},
+		"15": {
+			"Name": "Beedrill",
+			"Type": ["Bug", "Poison"],
+			"Total": 395,
+			"HP": 65,
+			"Attack": 90,
+			"Defense": 40,
+			"Sp. Atk": 45,
+			"Sp. Def": 80,
+			"Speed": 75
+		},
+		"16": {
+			"Name": "Pidgey",
+			"Type": ["Normal", "Flying"],
+			"Total": 251,
+			"HP": 40,
+			"Attack": 45,
+			"Defense": 40,
+			"Sp. Atk": 35,
+			"Sp. Def": 35,
+			"Speed": 56
+		},
+		"17": {
+			"Name": "Pidgeotto",
+			"Type": ["Normal", "Flying"],
+			"Total": 349,
+			"HP": 63,
+			"Attack": 60,
+			"Defense": 55,
+			"Sp. Atk": 50,
+			"Sp. Def": 50,
+			"Speed": 71
+		},
+		"18": {
+			"Name": "Pidgeot",
+			"Type": ["Normal", "Flying"],
+			"Total": 479,
+			"HP": 83,
+			"Attack": 80,
+			"Defense": 75,
+			"Sp. Atk": 70,
+			"Sp. Def": 70,
+			"Speed": 101
+		},
+		"19": {
+			"Name": "Rattata",
+			"Type": ["Normal"],
+			"Total": 253,
+			"HP": 30,
+			"Attack": 56,
+			"Defense": 35,
+			"Sp. Atk": 25,
+			"Sp. Def": 35,
+			"Speed": 72
+		},
+		"20": {
+			"Name": "Raticate",
+			"Type": ["Normal"],
+			"Total": 413,
+			"HP": 55,
+			"Attack": 81,
+			"Defense": 60,
+			"Sp. Atk": 50,
+			"Sp. Def": 70,
+			"Speed": 97
+		},
+		"21": {
+			"Name": "Spearow",
+			"Type": ["Normal", "Flying"],
+			"Total": 262,
+			"HP": 40,
+			"Attack": 60,
+			"Defense": 30,
+			"Sp. Atk": 31,
+			"Sp. Def": 31,
+			"Speed": 70
+		},
+		"22": {
+			"Name": "Fearow",
+			"Type": ["Normal", "Flying"],
+			"Total": 442,
+			"HP": 65,
+			"Attack": 90,
+			"Defense": 65,
+			"Sp. Atk": 61,
+			"Sp. Def": 61,
+			"Speed": 100
+		},
+		"23": {
+			"Name": "Ekans",
+			"Type": ["Poison"],
+			"Total": 288,
+			"HP": 35,
+			"Attack": 60,
+			"Defense": 44,
+			"Sp. Atk": 40,
+			"Sp. Def": 54,
+			"Speed": 55
+		},
+		"24": {
+			"Name": "Arbok",
+			"Type": ["Poison"],
+			"Total": 448,
+			"HP": 60,
+			"Attack": 95,
+			"Defense": 69,
+			"Sp. Atk": 65,
+			"Sp. Def": 79,
+			"Speed": 80
+		},
+		"25": {
+			"Name": "Pikachu",
+			"Type": ["Electric"],
+			"Total": 320,
+			"HP": 35,
+			"Attack": 55,
+			"Defense": 40,
+			"Sp. Atk": 50,
+			"Sp. Def": 50,
+			"Speed": 90
+		},
+		"26": {
+			"Name": "Raichu",
+			"Type": ["Electric"],
+			"Total": 485,
+			"HP": 60,
+			"Attack": 90,
+			"Defense": 55,
+			"Sp. Atk": 90,
+			"Sp. Def": 80,
+			"Speed": 110
+		},
+		"27": {
+			"Name": "Sandshrew",
+			"Type": ["Ground"],
+			"Total": 300,
+			"HP": 50,
+			"Attack": 75,
+			"Defense": 85,
+			"Sp. Atk": 20,
+			"Sp. Def": 30,
+			"Speed": 40
+		},
+		"28": {
+			"Name": "Sandslash",
+			"Type": ["Ground"],
+			"Total": 450,
+			"HP": 75,
+			"Attack": 100,
+			"Defense": 110,
+			"Sp. Atk": 45,
+			"Sp. Def": 55,
+			"Speed": 65
+		},
+		"29": {
+			"Name": "Nidoran\u2640",
+			"Type": ["Poison"],
+			"Total": 275,
+			"HP": 55,
+			"Attack": 47,
+			"Defense": 52,
+			"Sp. Atk": 40,
+			"Sp. Def": 40,
+			"Speed": 41
+		},
+		"30": {
+			"Name": "Nidorina",
+			"Type": ["Poison"],
+			"Total": 365,
+			"HP": 70,
+			"Attack": 62,
+			"Defense": 67,
+			"Sp. Atk": 55,
+			"Sp. Def": 55,
+			"Speed": 56
+		},
+		"31": {
+			"Name": "Nidoqueen",
+			"Type": ["Poison", "Ground"],
+			"Total": 505,
+			"HP": 90,
+			"Attack": 92,
+			"Defense": 87,
+			"Sp. Atk": 75,
+			"Sp. Def": 85,
+			"Speed": 76
+		},
+		"32": {
+			"Name": "Nidoran\u2642",
+			"Type": ["Poison"],
+			"Total": 273,
+			"HP": 46,
+			"Attack": 57,
+			"Defense": 40,
+			"Sp. Atk": 40,
+			"Sp. Def": 40,
+			"Speed": 50
+		},
+		"33": {
+			"Name": "Nidorino",
+			"Type": ["Poison"],
+			"Total": 365,
+			"HP": 61,
+			"Attack": 72,
+			"Defense": 57,
+			"Sp. Atk": 55,
+			"Sp. Def": 55,
+			"Speed": 65
+		},
+		"34": {
+			"Name": "Nidoking",
+			"Type": ["Poison", "Ground"],
+			"Total": 505,
+			"HP": 81,
+			"Attack": 102,
+			"Defense": 77,
+			"Sp. Atk": 85,
+			"Sp. Def": 75,
+			"Speed": 85
+		},
+		"35": {
+			"Name": "Clefairy",
+			"Type": ["Fairy"],
+			"Total": 323,
+			"HP": 70,
+			"Attack": 45,
+			"Defense": 48,
+			"Sp. Atk": 60,
+			"Sp. Def": 65,
+			"Speed": 35
+		},
+		"36": {
+			"Name": "Clefable",
+			"Type": ["Fairy"],
+			"Total": 483,
+			"HP": 95,
+			"Attack": 70,
+			"Defense": 73,
+			"Sp. Atk": 95,
+			"Sp. Def": 90,
+			"Speed": 60
+		},
+		"37": {
+			"Name": "Vulpix",
+			"Type": ["Fire"],
+			"Total": 299,
+			"HP": 38,
+			"Attack": 41,
+			"Defense": 40,
+			"Sp. Atk": 50,
+			"Sp. Def": 65,
+			"Speed": 65
+		},
+		"38": {
+			"Name": "Ninetales",
+			"Type": ["Fire"],
+			"Total": 505,
+			"HP": 73,
+			"Attack": 76,
+			"Defense": 75,
+			"Sp. Atk": 81,
+			"Sp. Def": 100,
+			"Speed": 100
+		},
+		"39": {
+			"Name": "Jigglypuff",
+			"Type": ["Normal", "Fairy"],
+			"Total": 270,
+			"HP": 115,
+			"Attack": 45,
+			"Defense": 20,
+			"Sp. Atk": 45,
+			"Sp. Def": 25,
+			"Speed": 20
+		},
+		"40": {
+			"Name": "Wigglytuff",
+			"Type": ["Normal", "Fairy"],
+			"Total": 435,
+			"HP": 140,
+			"Attack": 70,
+			"Defense": 45,
+			"Sp. Atk": 85,
+			"Sp. Def": 50,
+			"Speed": 45
+		},
+		"41": {
+			"Name": "Zubat",
+			"Type": ["Poison", "Flying"],
+			"Total": 245,
+			"HP": 40,
+			"Attack": 45,
+			"Defense": 35,
+			"Sp. Atk": 30,
+			"Sp. Def": 40,
+			"Speed": 55
+		},
+		"42": {
+			"Name": "Golbat",
+			"Type": ["Poison", "Flying"],
+			"Total": 455,
+			"HP": 75,
+			"Attack": 80,
+			"Defense": 70,
+			"Sp. Atk": 65,
+			"Sp. Def": 75,
+			"Speed": 90
+		},
+		"43": {
+			"Name": "Oddish",
+			"Type": ["Grass", "Poison"],
+			"Total": 320,
+			"HP": 45,
+			"Attack": 50,
+			"Defense": 55,
+			"Sp. Atk": 75,
+			"Sp. Def": 65,
+			"Speed": 30
+		},
+		"44": {
+			"Name": "Gloom",
+			"Type": ["Grass", "Poison"],
+			"Total": 395,
+			"HP": 60,
+			"Attack": 65,
+			"Defense": 70,
+			"Sp. Atk": 85,
+			"Sp. Def": 75,
+			"Speed": 40
+		},
+		"45": {
+			"Name": "Vileplume",
+			"Type": ["Grass", "Poison"],
+			"Total": 490,
+			"HP": 75,
+			"Attack": 80,
+			"Defense": 85,
+			"Sp. Atk": 110,
+			"Sp. Def": 90,
+			"Speed": 50
+		},
+		"46": {
+			"Name": "Paras",
+			"Type": ["Bug", "Grass"],
+			"Total": 285,
+			"HP": 35,
+			"Attack": 70,
+			"Defense": 55,
+			"Sp. Atk": 45,
+			"Sp. Def": 55,
+			"Speed": 25
+		},
+		"47": {
+			"Name": "Parasect",
+			"Type": ["Bug", "Grass"],
+			"Total": 405,
+			"HP": 60,
+			"Attack": 95,
+			"Defense": 80,
+			"Sp. Atk": 60,
+			"Sp. Def": 80,
+			"Speed": 30
+		},
+		"48": {
+			"Name": "Venonat",
+			"Type": ["Bug", "Poison"],
+			"Total": 305,
+			"HP": 60,
+			"Attack": 55,
+			"Defense": 50,
+			"Sp. Atk": 40,
+			"Sp. Def": 55,
+			"Speed": 45
+		},
+		"49": {
+			"Name": "Venomoth",
+			"Type": ["Bug", "Poison"],
+			"Total": 450,
+			"HP": 70,
+			"Attack": 65,
+			"Defense": 60,
+			"Sp. Atk": 90,
+			"Sp. Def": 75,
+			"Speed": 90
+		},
+		"50": {
+			"Name": "Diglett",
+			"Type": ["Ground"],
+			"Total": 265,
+			"HP": 10,
+			"Attack": 55,
+			"Defense": 25,
+			"Sp. Atk": 35,
+			"Sp. Def": 45,
+			"Speed": 95
+		},
+		"51": {
+			"Name": "Dugtrio",
+			"Type": ["Ground"],
+			"Total": 425,
+			"HP": 35,
+			"Attack": 100,
+			"Defense": 50,
+			"Sp. Atk": 50,
+			"Sp. Def": 70,
+			"Speed": 120
+		},
+		"52": {
+			"Name": "Meowth",
+			"Type": ["Normal"],
+			"Total": 290,
+			"HP": 40,
+			"Attack": 45,
+			"Defense": 35,
+			"Sp. Atk": 40,
+			"Sp. Def": 40,
+			"Speed": 90
+		},
+		"53": {
+			"Name": "Persian",
+			"Type": ["Normal"],
+			"Total": 440,
+			"HP": 65,
+			"Attack": 70,
+			"Defense": 60,
+			"Sp. Atk": 65,
+			"Sp. Def": 65,
+			"Speed": 115
+		},
+		"54": {
+			"Name": "Psyduck",
+			"Type": ["Water"],
+			"Total": 320,
+			"HP": 50,
+			"Attack": 52,
+			"Defense": 48,
+			"Sp. Atk": 65,
+			"Sp. Def": 50,
+			"Speed": 55
+		},
+		"55": {
+			"Name": "Golduck",
+			"Type": ["Water"],
+			"Total": 500,
+			"HP": 80,
+			"Attack": 82,
+			"Defense": 78,
+			"Sp. Atk": 95,
+			"Sp. Def": 80,
+			"Speed": 85
+		},
+		"56": {
+			"Name": "Mankey",
+			"Type": ["Fighting"],
+			"Total": 305,
+			"HP": 40,
+			"Attack": 80,
+			"Defense": 35,
+			"Sp. Atk": 35,
+			"Sp. Def": 45,
+			"Speed": 70
+		},
+		"57": {
+			"Name": "Primeape",
+			"Type": ["Fighting"],
+			"Total": 455,
+			"HP": 65,
+			"Attack": 105,
+			"Defense": 60,
+			"Sp. Atk": 60,
+			"Sp. Def": 70,
+			"Speed": 95
+		},
+		"58": {
+			"Name": "Growlithe",
+			"Type": ["Fire"],
+			"Total": 350,
+			"HP": 55,
+			"Attack": 70,
+			"Defense": 45,
+			"Sp. Atk": 70,
+			"Sp. Def": 50,
+			"Speed": 60
+		},
+		"59": {
+			"Name": "Arcanine",
+			"Type": ["Fire"],
+			"Total": 555,
+			"HP": 90,
+			"Attack": 110,
+			"Defense": 80,
+			"Sp. Atk": 100,
+			"Sp. Def": 80,
+			"Speed": 95
+		},
+		"60": {
+			"Name": "Poliwag",
+			"Type": ["Water"],
+			"Total": 300,
+			"HP": 40,
+			"Attack": 50,
+			"Defense": 40,
+			"Sp. Atk": 40,
+			"Sp. Def": 40,
+			"Speed": 90
+		},
+		"61": {
+			"Name": "Poliwhirl",
+			"Type": ["Water"],
+			"Total": 385,
+			"HP": 65,
+			"Attack": 65,
+			"Defense": 65,
+			"Sp. Atk": 50,
+			"Sp. Def": 50,
+			"Speed": 90
+		},
+		"62": {
+			"Name": "Poliwrath",
+			"Type": ["Water", "Fighting"],
+			"Total": 510,
+			"HP": 90,
+			"Attack": 95,
+			"Defense": 95,
+			"Sp. Atk": 70,
+			"Sp. Def": 90,
+			"Speed": 70
+		},
+		"63": {
+			"Name": "Abra",
+			"Type": ["Psychic"],
+			"Total": 310,
+			"HP": 25,
+			"Attack": 20,
+			"Defense": 15,
+			"Sp. Atk": 105,
+			"Sp. Def": 55,
+			"Speed": 90
+		},
+		"64": {
+			"Name": "Kadabra",
+			"Type": ["Psychic"],
+			"Total": 400,
+			"HP": 40,
+			"Attack": 35,
+			"Defense": 30,
+			"Sp. Atk": 120,
+			"Sp. Def": 70,
+			"Speed": 105
+		},
+		"65": {
+			"Name": "Alakazam",
+			"Type": ["Psychic"],
+			"Total": 500,
+			"HP": 55,
+			"Attack": 50,
+			"Defense": 45,
+			"Sp. Atk": 135,
+			"Sp. Def": 95,
+			"Speed": 120
+		},
+		"66": {
+			"Name": "Machop",
+			"Type": ["Fighting"],
+			"Total": 305,
+			"HP": 70,
+			"Attack": 80,
+			"Defense": 50,
+			"Sp. Atk": 35,
+			"Sp. Def": 35,
+			"Speed": 35
+		},
+		"67": {
+			"Name": "Machoke",
+			"Type": ["Fighting"],
+			"Total": 405,
+			"HP": 80,
+			"Attack": 100,
+			"Defense": 70,
+			"Sp. Atk": 50,
+			"Sp. Def": 60,
+			"Speed": 45
+		},
+		"68": {
+			"Name": "Machamp",
+			"Type": ["Fighting"],
+			"Total": 505,
+			"HP": 90,
+			"Attack": 130,
+			"Defense": 80,
+			"Sp. Atk": 65,
+			"Sp. Def": 85,
+			"Speed": 55
+		},
+		"69": {
+			"Name": "Bellsprout",
+			"Type": ["Grass", "Poison"],
+			"Total": 300,
+			"HP": 50,
+			"Attack": 75,
+			"Defense": 35,
+			"Sp. Atk": 70,
+			"Sp. Def": 30,
+			"Speed": 40
+		},
+		"70": {
+			"Name": "Weepinbell",
+			"Type": ["Grass", "Poison"],
+			"Total": 390,
+			"HP": 65,
+			"Attack": 90,
+			"Defense": 50,
+			"Sp. Atk": 85,
+			"Sp. Def": 45,
+			"Speed": 55
+		},
+		"71": {
+			"Name": "Victreebel",
+			"Type": ["Grass", "Poison"],
+			"Total": 490,
+			"HP": 80,
+			"Attack": 105,
+			"Defense": 65,
+			"Sp. Atk": 100,
+			"Sp. Def": 70,
+			"Speed": 70
+		},
+		"72": {
+			"Name": "Tentacool",
+			"Type": ["Water", "Poison"],
+			"Total": 335,
+			"HP": 40,
+			"Attack": 40,
+			"Defense": 35,
+			"Sp. Atk": 50,
+			"Sp. Def": 100,
+			"Speed": 70
+		},
+		"73": {
+			"Name": "Tentacruel",
+			"Type": ["Water", "Poison"],
+			"Total": 515,
+			"HP": 80,
+			"Attack": 70,
+			"Defense": 65,
+			"Sp. Atk": 80,
+			"Sp. Def": 120,
+			"Speed": 100
+		},
+		"74": {
+			"Name": "Geodude",
+			"Type": ["Rock", "Ground"],
+			"Total": 300,
+			"HP": 40,
+			"Attack": 80,
+			"Defense": 100,
+			"Sp. Atk": 30,
+			"Sp. Def": 30,
+			"Speed": 20
+		},
+		"75": {
+			"Name": "Graveler",
+			"Type": ["Rock", "Ground"],
+			"Total": 390,
+			"HP": 55,
+			"Attack": 95,
+			"Defense": 115,
+			"Sp. Atk": 45,
+			"Sp. Def": 45,
+			"Speed": 35
+		},
+		"76": {
+			"Name": "Golem",
+			"Type": ["Rock", "Ground"],
+			"Total": 495,
+			"HP": 80,
+			"Attack": 120,
+			"Defense": 130,
+			"Sp. Atk": 55,
+			"Sp. Def": 65,
+			"Speed": 45
+		},
+		"77": {
+			"Name": "Ponyta",
+			"Type": ["Fire"],
+			"Total": 410,
+			"HP": 50,
+			"Attack": 85,
+			"Defense": 55,
+			"Sp. Atk": 65,
+			"Sp. Def": 65,
+			"Speed": 90
+		},
+		"78": {
+			"Name": "Rapidash",
+			"Type": ["Fire"],
+			"Total": 500,
+			"HP": 65,
+			"Attack": 100,
+			"Defense": 70,
+			"Sp. Atk": 80,
+			"Sp. Def": 80,
+			"Speed": 105
+		},
+		"79": {
+			"Name": "Slowpoke",
+			"Type": ["Water", "Psychic"],
+			"Total": 315,
+			"HP": 90,
+			"Attack": 65,
+			"Defense": 65,
+			"Sp. Atk": 40,
+			"Sp. Def": 40,
+			"Speed": 15
+		},
+		"80": {
+			"Name": "Slowbro",
+			"Type": ["Water", "Psychic"],
+			"Total": 490,
+			"HP": 95,
+			"Attack": 75,
+			"Defense": 110,
+			"Sp. Atk": 100,
+			"Sp. Def": 80,
+			"Speed": 30
+		},
+		"81": {
+			"Name": "Magnemite",
+			"Type": ["Electric", "Steel"],
+			"Total": 325,
+			"HP": 25,
+			"Attack": 35,
+			"Defense": 70,
+			"Sp. Atk": 95,
+			"Sp. Def": 55,
+			"Speed": 45
+		},
+		"82": {
+			"Name": "Magneton",
+			"Type": ["Electric", "Steel"],
+			"Total": 465,
+			"HP": 50,
+			"Attack": 60,
+			"Defense": 95,
+			"Sp. Atk": 120,
+			"Sp. Def": 70,
+			"Speed": 70
+		},
+		"83": {
+			"Name": "Farfetch'd",
+			"Type": ["Normal", "Flying"],
+			"Total": 377,
+			"HP": 52,
+			"Attack": 90,
+			"Defense": 55,
+			"Sp. Atk": 58,
+			"Sp. Def": 62,
+			"Speed": 60
+		},
+		"84": {
+			"Name": "Doduo",
+			"Type": ["Normal", "Flying"],
+			"Total": 310,
+			"HP": 35,
+			"Attack": 85,
+			"Defense": 45,
+			"Sp. Atk": 35,
+			"Sp. Def": 35,
+			"Speed": 75
+		},
+		"85": {
+			"Name": "Dodrio",
+			"Type": ["Normal", "Flying"],
+			"Total": 470,
+			"HP": 60,
+			"Attack": 110,
+			"Defense": 70,
+			"Sp. Atk": 60,
+			"Sp. Def": 60,
+			"Speed": 110
+		},
+		"86": {
+			"Name": "Seel",
+			"Type": ["Water"],
+			"Total": 325,
+			"HP": 65,
+			"Attack": 45,
+			"Defense": 55,
+			"Sp. Atk": 45,
+			"Sp. Def": 70,
+			"Speed": 45
+		},
+		"87": {
+			"Name": "Dewgong",
+			"Type": ["Water", "Ice"],
+			"Total": 475,
+			"HP": 90,
+			"Attack": 70,
+			"Defense": 80,
+			"Sp. Atk": 70,
+			"Sp. Def": 95,
+			"Speed": 70
+		},
+		"88": {
+			"Name": "Grimer",
+			"Type": ["Poison"],
+			"Total": 325,
+			"HP": 80,
+			"Attack": 80,
+			"Defense": 50,
+			"Sp. Atk": 40,
+			"Sp. Def": 50,
+			"Speed": 25
+		},
+		"89": {
+			"Name": "Muk",
+			"Type": ["Poison"],
+			"Total": 500,
+			"HP": 105,
+			"Attack": 105,
+			"Defense": 75,
+			"Sp. Atk": 65,
+			"Sp. Def": 100,
+			"Speed": 50
+		},
+		"90": {
+			"Name": "Shellder",
+			"Type": ["Water"],
+			"Total": 305,
+			"HP": 30,
+			"Attack": 65,
+			"Defense": 100,
+			"Sp. Atk": 45,
+			"Sp. Def": 25,
+			"Speed": 40
+		},
+		"91": {
+			"Name": "Cloyster",
+			"Type": ["Water", "Ice"],
+			"Total": 525,
+			"HP": 50,
+			"Attack": 95,
+			"Defense": 180,
+			"Sp. Atk": 85,
+			"Sp. Def": 45,
+			"Speed": 70
+		},
+		"92": {
+			"Name": "Gastly",
+			"Type": ["Ghost", "Poison"],
+			"Total": 310,
+			"HP": 30,
+			"Attack": 35,
+			"Defense": 30,
+			"Sp. Atk": 100,
+			"Sp. Def": 35,
+			"Speed": 80
+		},
+		"93": {
+			"Name": "Haunter",
+			"Type": ["Ghost", "Poison"],
+			"Total": 405,
+			"HP": 45,
+			"Attack": 50,
+			"Defense": 45,
+			"Sp. Atk": 115,
+			"Sp. Def": 55,
+			"Speed": 95
+		},
+		"94": {
+			"Name": "Gengar",
+			"Type": ["Ghost", "Poison"],
+			"Total": 500,
+			"HP": 60,
+			"Attack": 65,
+			"Defense": 60,
+			"Sp. Atk": 130,
+			"Sp. Def": 75,
+			"Speed": 110
+		},
+		"95": {
+			"Name": "Onix",
+			"Type": ["Rock", "Ground"],
+			"Total": 385,
+			"HP": 35,
+			"Attack": 45,
+			"Defense": 160,
+			"Sp. Atk": 30,
+			"Sp. Def": 45,
+			"Speed": 70
+		},
+		"96": {
+			"Name": "Drowzee",
+			"Type": ["Psychic"],
+			"Total": 328,
+			"HP": 60,
+			"Attack": 48,
+			"Defense": 45,
+			"Sp. Atk": 43,
+			"Sp. Def": 90,
+			"Speed": 42
+		},
+		"97": {
+			"Name": "Hypno",
+			"Type": ["Psychic"],
+			"Total": 483,
+			"HP": 85,
+			"Attack": 73,
+			"Defense": 70,
+			"Sp. Atk": 73,
+			"Sp. Def": 115,
+			"Speed": 67
+		},
+		"98": {
+			"Name": "Krabby",
+			"Type": ["Water"],
+			"Total": 325,
+			"HP": 30,
+			"Attack": 105,
+			"Defense": 90,
+			"Sp. Atk": 25,
+			"Sp. Def": 25,
+			"Speed": 50
+		},
+		"99": {
+			"Name": "Kingler",
+			"Type": ["Water"],
+			"Total": 475,
+			"HP": 55,
+			"Attack": 130,
+			"Defense": 115,
+			"Sp. Atk": 50,
+			"Sp. Def": 50,
+			"Speed": 75
+		},
+		"100": {
+			"Name": "Voltorb",
+			"Type": ["Electric"],
+			"Total": 330,
+			"HP": 40,
+			"Attack": 30,
+			"Defense": 50,
+			"Sp. Atk": 55,
+			"Sp. Def": 55,
+			"Speed": 100
+		},
+		"101": {
+			"Name": "Electrode",
+			"Type": ["Electric"],
+			"Total": 490,
+			"HP": 60,
+			"Attack": 50,
+			"Defense": 70,
+			"Sp. Atk": 80,
+			"Sp. Def": 80,
+			"Speed": 150
+		},
+		"102": {
+			"Name": "Exeggcute",
+			"Type": ["Grass", "Psychic"],
+			"Total": 325,
+			"HP": 60,
+			"Attack": 40,
+			"Defense": 80,
+			"Sp. Atk": 60,
+			"Sp. Def": 45,
+			"Speed": 40
+		},
+		"103": {
+			"Name": "Exeggutor",
+			"Type": ["Grass", "Psychic"],
+			"Total": 530,
+			"HP": 95,
+			"Attack": 95,
+			"Defense": 85,
+			"Sp. Atk": 125,
+			"Sp. Def": 75,
+			"Speed": 55
+		},
+		"104": {
+			"Name": "Cubone",
+			"Type": ["Ground"],
+			"Total": 320,
+			"HP": 50,
+			"Attack": 50,
+			"Defense": 95,
+			"Sp. Atk": 40,
+			"Sp. Def": 50,
+			"Speed": 35
+		},
+		"105": {
+			"Name": "Marowak",
+			"Type": ["Ground"],
+			"Total": 425,
+			"HP": 60,
+			"Attack": 80,
+			"Defense": 110,
+			"Sp. Atk": 50,
+			"Sp. Def": 80,
+			"Speed": 45
+		},
+		"106": {
+			"Name": "Hitmonlee",
+			"Type": ["Fighting"],
+			"Total": 455,
+			"HP": 50,
+			"Attack": 120,
+			"Defense": 53,
+			"Sp. Atk": 35,
+			"Sp. Def": 110,
+			"Speed": 87
+		},
+		"107": {
+			"Name": "Hitmonchan",
+			"Type": ["Fighting"],
+			"Total": 455,
+			"HP": 50,
+			"Attack": 105,
+			"Defense": 79,
+			"Sp. Atk": 35,
+			"Sp. Def": 110,
+			"Speed": 76
+		},
+		"108": {
+			"Name": "Lickitung",
+			"Type": ["Normal"],
+			"Total": 385,
+			"HP": 90,
+			"Attack": 55,
+			"Defense": 75,
+			"Sp. Atk": 60,
+			"Sp. Def": 75,
+			"Speed": 30
+		},
+		"109": {
+			"Name": "Koffing",
+			"Type": ["Poison"],
+			"Total": 340,
+			"HP": 40,
+			"Attack": 65,
+			"Defense": 95,
+			"Sp. Atk": 60,
+			"Sp. Def": 45,
+			"Speed": 35
+		},
+		"110": {
+			"Name": "Weezing",
+			"Type": ["Poison"],
+			"Total": 490,
+			"HP": 65,
+			"Attack": 90,
+			"Defense": 120,
+			"Sp. Atk": 85,
+			"Sp. Def": 70,
+			"Speed": 60
+		},
+		"111": {
+			"Name": "Rhyhorn",
+			"Type": ["Ground", "Rock"],
+			"Total": 345,
+			"HP": 80,
+			"Attack": 85,
+			"Defense": 95,
+			"Sp. Atk": 30,
+			"Sp. Def": 30,
+			"Speed": 25
+		},
+		"112": {
+			"Name": "Rhydon",
+			"Type": ["Ground", "Rock"],
+			"Total": 485,
+			"HP": 105,
+			"Attack": 130,
+			"Defense": 120,
+			"Sp. Atk": 45,
+			"Sp. Def": 45,
+			"Speed": 40
+		},
+		"113": {
+			"Name": "Chansey",
+			"Type": ["Normal"],
+			"Total": 450,
+			"HP": 250,
+			"Attack": 5,
+			"Defense": 5,
+			"Sp. Atk": 35,
+			"Sp. Def": 105,
+			"Speed": 50
+		},
+		"114": {
+			"Name": "Tangela",
+			"Type": ["Grass"],
+			"Total": 435,
+			"HP": 65,
+			"Attack": 55,
+			"Defense": 115,
+			"Sp. Atk": 100,
+			"Sp. Def": 40,
+			"Speed": 60
+		},
+		"115": {
+			"Name": "Kangaskhan",
+			"Type": ["Normal"],
+			"Total": 490,
+			"HP": 105,
+			"Attack": 95,
+			"Defense": 80,
+			"Sp. Atk": 40,
+			"Sp. Def": 80,
+			"Speed": 90
+		},
+		"116": {
+			"Name": "Horsea",
+			"Type": ["Water"],
+			"Total": 295,
+			"HP": 30,
+			"Attack": 40,
+			"Defense": 70,
+			"Sp. Atk": 70,
+			"Sp. Def": 25,
+			"Speed": 60
+		},
+		"117": {
+			"Name": "Seadra",
+			"Type": ["Water"],
+			"Total": 440,
+			"HP": 55,
+			"Attack": 65,
+			"Defense": 95,
+			"Sp. Atk": 95,
+			"Sp. Def": 45,
+			"Speed": 85
+		},
+		"118": {
+			"Name": "Goldeen",
+			"Type": ["Water"],
+			"Total": 320,
+			"HP": 45,
+			"Attack": 67,
+			"Defense": 60,
+			"Sp. Atk": 35,
+			"Sp. Def": 50,
+			"Speed": 63
+		},
+		"119": {
+			"Name": "Seaking",
+			"Type": ["Water"],
+			"Total": 450,
+			"HP": 80,
+			"Attack": 92,
+			"Defense": 65,
+			"Sp. Atk": 65,
+			"Sp. Def": 80,
+			"Speed": 68
+		},
+		"120": {
+			"Name": "Staryu",
+			"Type": ["Water"],
+			"Total": 340,
+			"HP": 30,
+			"Attack": 45,
+			"Defense": 55,
+			"Sp. Atk": 70,
+			"Sp. Def": 55,
+			"Speed": 85
+		},
+		"121": {
+			"Name": "Starmie",
+			"Type": ["Water", "Psychic"],
+			"Total": 520,
+			"HP": 60,
+			"Attack": 75,
+			"Defense": 85,
+			"Sp. Atk": 100,
+			"Sp. Def": 85,
+			"Speed": 115
+		},
+		"122": {
+			"Name": "Mr. Mime",
+			"Type": ["Psychic", "Fairy"],
+			"Total": 460,
+			"HP": 40,
+			"Attack": 45,
+			"Defense": 65,
+			"Sp. Atk": 100,
+			"Sp. Def": 120,
+			"Speed": 90
+		},
+		"123": {
+			"Name": "Scyther",
+			"Type": ["Bug", "Flying"],
+			"Total": 500,
+			"HP": 70,
+			"Attack": 110,
+			"Defense": 80,
+			"Sp. Atk": 55,
+			"Sp. Def": 80,
+			"Speed": 105
+		},
+		"124": {
+			"Name": "Jynx",
+			"Type": ["Ice", "Psychic"],
+			"Total": 455,
+			"HP": 65,
+			"Attack": 50,
+			"Defense": 35,
+			"Sp. Atk": 115,
+			"Sp. Def": 95,
+			"Speed": 95
+		},
+		"125": {
+			"Name": "Electabuzz",
+			"Type": ["Electric"],
+			"Total": 490,
+			"HP": 65,
+			"Attack": 83,
+			"Defense": 57,
+			"Sp. Atk": 95,
+			"Sp. Def": 85,
+			"Speed": 105
+		},
+		"126": {
+			"Name": "Magmar",
+			"Type": ["Fire"],
+			"Total": 495,
+			"HP": 65,
+			"Attack": 95,
+			"Defense": 57,
+			"Sp. Atk": 100,
+			"Sp. Def": 85,
+			"Speed": 93
+		},
+		"127": {
+			"Name": "Pinsir",
+			"Type": ["Bug"],
+			"Total": 500,
+			"HP": 65,
+			"Attack": 125,
+			"Defense": 100,
+			"Sp. Atk": 55,
+			"Sp. Def": 70,
+			"Speed": 85
+		},
+		"128": {
+			"Name": "Tauros",
+			"Type": ["Normal"],
+			"Total": 490,
+			"HP": 75,
+			"Attack": 100,
+			"Defense": 95,
+			"Sp. Atk": 40,
+			"Sp. Def": 70,
+			"Speed": 110
+		},
+		"129": {
+			"Name": "Magikarp",
+			"Type": ["Water"],
+			"Total": 200,
+			"HP": 20,
+			"Attack": 10,
+			"Defense": 55,
+			"Sp. Atk": 15,
+			"Sp. Def": 20,
+			"Speed": 80
+		},
+		"130": {
+			"Name": "Gyarados",
+			"Type": ["Water", "Flying"],
+			"Total": 540,
+			"HP": 95,
+			"Attack": 125,
+			"Defense": 79,
+			"Sp. Atk": 60,
+			"Sp. Def": 100,
+			"Speed": 81
+		},
+		"131": {
+			"Name": "Lapras",
+			"Type": ["Water", "Ice"],
+			"Total": 535,
+			"HP": 130,
+			"Attack": 85,
+			"Defense": 80,
+			"Sp. Atk": 85,
+			"Sp. Def": 95,
+			"Speed": 60
+		},
+		"132": {
+			"Name": "Ditto",
+			"Type": ["Normal"],
+			"Total": 288,
+			"HP": 48,
+			"Attack": 48,
+			"Defense": 48,
+			"Sp. Atk": 48,
+			"Sp. Def": 48,
+			"Speed": 48
+		},
+		"133": {
+			"Name": "Eevee",
+			"Type": ["Normal"],
+			"Total": 325,
+			"HP": 55,
+			"Attack": 55,
+			"Defense": 50,
+			"Sp. Atk": 45,
+			"Sp. Def": 65,
+			"Speed": 55
+		},
+		"134": {
+			"Name": "Vaporeon",
+			"Type": ["Water"],
+			"Total": 525,
+			"HP": 130,
+			"Attack": 65,
+			"Defense": 60,
+			"Sp. Atk": 110,
+			"Sp. Def": 95,
+			"Speed": 65
+		},
+		"135": {
+			"Name": "Jolteon",
+			"Type": ["Electric"],
+			"Total": 525,
+			"HP": 65,
+			"Attack": 65,
+			"Defense": 60,
+			"Sp. Atk": 110,
+			"Sp. Def": 95,
+			"Speed": 130
+		},
+		"136": {
+			"Name": "Flareon",
+			"Type": ["Fire"],
+			"Total": 525,
+			"HP": 65,
+			"Attack": 130,
+			"Defense": 60,
+			"Sp. Atk": 95,
+			"Sp. Def": 110,
+			"Speed": 65
+		},
+		"137": {
+			"Name": "Porygon",
+			"Type": ["Normal"],
+			"Total": 395,
+			"HP": 65,
+			"Attack": 60,
+			"Defense": 70,
+			"Sp. Atk": 85,
+			"Sp. Def": 75,
+			"Speed": 40
+		},
+		"138": {
+			"Name": "Omanyte",
+			"Type": ["Rock", "Water"],
+			"Total": 355,
+			"HP": 35,
+			"Attack": 40,
+			"Defense": 100,
+			"Sp. Atk": 90,
+			"Sp. Def": 55,
+			"Speed": 35
+		},
+		"139": {
+			"Name": "Omastar",
+			"Type": ["Rock", "Water"],
+			"Total": 495,
+			"HP": 70,
+			"Attack": 60,
+			"Defense": 125,
+			"Sp. Atk": 115,
+			"Sp. Def": 70,
+			"Speed": 55
+		},
+		"140": {
+			"Name": "Kabuto",
+			"Type": ["Rock", "Water"],
+			"Total": 355,
+			"HP": 30,
+			"Attack": 80,
+			"Defense": 90,
+			"Sp. Atk": 55,
+			"Sp. Def": 45,
+			"Speed": 55
+		},
+		"141": {
+			"Name": "Kabutops",
+			"Type": ["Rock", "Water"],
+			"Total": 495,
+			"HP": 60,
+			"Attack": 115,
+			"Defense": 105,
+			"Sp. Atk": 65,
+			"Sp. Def": 70,
+			"Speed": 80
+		},
+		"142": {
+			"Name": "Aerodactyl",
+			"Type": ["Rock", "Flying"],
+			"Total": 515,
+			"HP": 80,
+			"Attack": 105,
+			"Defense": 65,
+			"Sp. Atk": 60,
+			"Sp. Def": 75,
+			"Speed": 130
+		},
+		"143": {
+			"Name": "Snorlax",
+			"Type": ["Normal"],
+			"Total": 540,
+			"HP": 160,
+			"Attack": 110,
+			"Defense": 65,
+			"Sp. Atk": 65,
+			"Sp. Def": 110,
+			"Speed": 30
+		},
+		"144": {
+			"Name": "Articuno",
+			"Type": ["Ice", "Flying"],
+			"Total": 580,
+			"HP": 90,
+			"Attack": 85,
+			"Defense": 100,
+			"Sp. Atk": 95,
+			"Sp. Def": 125,
+			"Speed": 85
+		},
+		"145": {
+			"Name": "Zapdos",
+			"Type": ["Electric", "Flying"],
+			"Total": 580,
+			"HP": 90,
+			"Attack": 90,
+			"Defense": 85,
+			"Sp. Atk": 125,
+			"Sp. Def": 90,
+			"Speed": 100
+		},
+		"146": {
+			"Name": "Moltres",
+			"Type": ["Fire", "Flying"],
+			"Total": 580,
+			"HP": 90,
+			"Attack": 100,
+			"Defense": 90,
+			"Sp. Atk": 125,
+			"Sp. Def": 85,
+			"Speed": 90
+		},
+		"147": {
+			"Name": "Dratini",
+			"Type": ["Dragon"],
+			"Total": 300,
+			"HP": 41,
+			"Attack": 64,
+			"Defense": 45,
+			"Sp. Atk": 50,
+			"Sp. Def": 50,
+			"Speed": 50
+		},
+		"148": {
+			"Name": "Dragonair",
+			"Type": ["Dragon"],
+			"Total": 420,
+			"HP": 61,
+			"Attack": 84,
+			"Defense": 65,
+			"Sp. Atk": 70,
+			"Sp. Def": 70,
+			"Speed": 70
+		},
+		"149": {
+			"Name": "Dragonite",
+			"Type": ["Dragon", "Flying"],
+			"Total": 600,
+			"HP": 91,
+			"Attack": 134,
+			"Defense": 95,
+			"Sp. Atk": 100,
+			"Sp. Def": 100,
+			"Speed": 80
+		},
+		"150": {
+			"Name": "Mewtwo",
+			"Type": ["Psychic"],
+			"Total": 680,
+			"HP": 106,
+			"Attack": 110,
+			"Defense": 90,
+			"Sp. Atk": 154,
+			"Sp. Def": 90,
+			"Speed": 130
+		},
+		"151": {
+			"Name": "Mew",
+			"Type": ["Psychic"],
+			"Total": 600,
+			"HP": 100,
+			"Attack": 100,
+			"Defense": 100,
+			"Sp. Atk": 100,
+			"Sp. Def": 100,
+			"Speed": 100
+		}
+	},
+	"Types": {
+		"Normal": {
+			"Strong Against": [],
+			"Weak Against": ["Rock", "Ghost", "Steel"],
+			"Resistant To": ["Ghost"],
+			"Vulnerable To": ["Fighting"],
+			"#": [
+				"16",
+				"17",
+				"18",
+				"19",
+				"20",
+				"21",
+				"22",
+				"39",
+				"40",
+				"52",
+				"53",
+				"83",
+				"84",
+				"85",
+				"108",
+				"113",
+				"115",
+				"128",
+				"132",
+				"133",
+				"137",
+				"143"
+			]
+		},
+		"Fighting": {
+			"Strong Against": ["Normal", "Rock", "Steel", "Ice", "Dark"],
+			"Weak Against": ["Flying", "Poison", "Psychic", "Bug", "Ghost", "Fairy"],
+			"Resistant To": ["Rock", "Bug", "Dark"],
+			"Vulnerable To": ["Flying", "Psychic", "Fairy"],
+			"#": ["56", "57", "62", "66", "67", "68", "106", "107"]
+		},
+		"Flying": {
+			"Strong Against": ["Fighting", "Bug", "Grass"],
+			"Weak Against": ["Rock", "Steel", "Electric"],
+			"Resistant To": ["Fighting", "Ground", "Bug", "Grass"],
+			"Vulnerable To": ["Rock", "Electric", "Ice"],
+			"#": [
+				"6",
+				"12",
+				"16",
+				"17",
+				"18",
+				"21",
+				"22",
+				"41",
+				"42",
+				"83",
+				"84",
+				"85",
+				"123",
+				"130",
+				"142",
+				"144",
+				"145",
+				"146",
+				"149"
+			]
+		},
+		"Poison": {
+			"Strong Against": ["Grass", "Fairy"],
+			"Weak Against": ["Poison", "Ground", "Rock", "Ghost", "Steel"],
+			"Resistant To": ["Fighting", "Poison", "Grass", "Fairy"],
+			"Vulnerable To": ["Ground", "Psychic"],
+			"#": [
+				"1",
+				"2",
+				"3",
+				"13",
+				"14",
+				"15",
+				"23",
+				"24",
+				"29",
+				"30",
+				"31",
+				"32",
+				"33",
+				"34",
+				"41",
+				"42",
+				"43",
+				"44",
+				"45",
+				"48",
+				"49",
+				"69",
+				"70",
+				"71",
+				"72",
+				"73",
+				"88",
+				"89",
+				"92",
+				"93",
+				"94",
+				"109",
+				"110"
+			]
+		},
+		"Ground": {
+			"Strong Against": ["Poison", "Rock", "Steel", "Fire", "Electric"],
+			"Weak Against": ["Flying", "Bug", "Grass"],
+			"Resistant To": ["Poison", "Rock", "Electric"],
+			"Vulnerable To": ["Water", "Grass", "Ice"],
+			"#": [
+				"27",
+				"28",
+				"31",
+				"34",
+				"50",
+				"51",
+				"74",
+				"75",
+				"76",
+				"95",
+				"104",
+				"105",
+				"111",
+				"112"
+			]
+		},
+		"Rock": {
+			"Strong Against": ["Flying", "Bug", "Fire", "Ice"],
+			"Weak Against": ["Fighting", "Ground", "Steel"],
+			"Resistant To": ["Normal", "Flying", "Poison", "Fire"],
+			"Vulnerable To": ["Fighting", "Ground", "Steel", "Water", "Grass"],
+			"#": [
+				"74",
+				"75",
+				"76",
+				"95",
+				"111",
+				"112",
+				"138",
+				"139",
+				"140",
+				"141",
+				"142"
+			]
+		},
+		"Bug": {
+			"Strong Against": ["Grass", "Psychic", "Dark"],
+			"Weak Against": [
+				"Fighting",
+				"Flying",
+				"Poison",
+				"Ghost",
+				"Steel",
+				"Fire",
+				"Fairy"
+			],
+			"Resistant To": ["Fighting", "Ground", "Grass"],
+			"Vulnerable To": ["Flying", "Rock", "Fire"],
+			"#": [
+				"10",
+				"11",
+				"12",
+				"13",
+				"14",
+				"15",
+				"46",
+				"47",
+				"48",
+				"49",
+				"123",
+				"127"
+			]
+		},
+		"Ghost": {
+			"Strong Against": ["Ghost", "Psychic"],
+			"Weak Against": ["Normal", "Dark"],
+			"Resistant To": ["Normal", "Fighting", "Poison", "Bug"],
+			"Vulnerable To": ["Ghost", "Dark"],
+			"#": ["92", "93", "94"]
+		},
+		"Steel": {
+			"Strong Against": ["Rock", "Ice", "Fairy"],
+			"Weak Against": ["Steel", "Fire", "Water", "Electric"],
+			"Resistant To": [
+				"Normal",
+				"Flying",
+				"Poison",
+				"Rock",
+				"Bug",
+				"Steel",
+				"Grass",
+				"Psychic",
+				"Ice",
+				"Dragon",
+				"Fairy"
+			],
+			"Vulnerable To": ["Fighting", "Ground", "Fire"],
+			"#": ["81", "82"]
+		},
+		"Fire": {
+			"Strong Against": ["Bug", "Steel", "Grass", "Ice"],
+			"Weak Against": ["Rock", "Fire", "Water", "Dragon"],
+			"Resistant To": ["Bug", "Steel", "Fire", "Grass", "Ice"],
+			"Vulnerable To": ["Ground", "Rock", "Water"],
+			"#": [
+				"4",
+				"5",
+				"6",
+				"37",
+				"38",
+				"58",
+				"59",
+				"77",
+				"78",
+				"126",
+				"136",
+				"146"
+			]
+		},
+		"Water": {
+			"Strong Against": ["Ground", "Rock", "Fire"],
+			"Weak Against": ["Water", "Grass", "Dragon"],
+			"Resistant To": ["Steel", "Fire", "Water", "Ice"],
+			"Vulnerable To": ["Grass", "Electric"],
+			"#": [
+				"7",
+				"8",
+				"9",
+				"54",
+				"55",
+				"60",
+				"61",
+				"62",
+				"72",
+				"73",
+				"79",
+				"80",
+				"86",
+				"87",
+				"90",
+				"91",
+				"98",
+				"99",
+				"116",
+				"117",
+				"118",
+				"119",
+				"120",
+				"121",
+				"129",
+				"130",
+				"131",
+				"134",
+				"138",
+				"139",
+				"140",
+				"141"
+			]
+		},
+		"Grass": {
+			"Strong Against": ["Ground", "Rock", "Water"],
+			"Weak Against": [
+				"Flying",
+				"Poison",
+				"Bug",
+				"Steel",
+				"Fire",
+				"Grass",
+				"Dragon"
+			],
+			"Resistant To": ["Ground", "Water", "Grass", "Electric"],
+			"Vulnerable To": ["Flying", "Poison", "Bug", "Fire", "Ice"],
+			"#": [
+				"1",
+				"2",
+				"3",
+				"43",
+				"44",
+				"45",
+				"46",
+				"47",
+				"69",
+				"70",
+				"71",
+				"102",
+				"103",
+				"114"
+			]
+		},
+		"Electric": {
+			"Strong Against": ["Flying", "Water"],
+			"Weak Against": ["Ground", "Grass", "Electric", "Dragon"],
+			"Resistant To": ["Flying", "Steel", "Electric"],
+			"Vulnerable To": ["Ground"],
+			"#": ["25", "26", "81", "82", "100", "101", "125", "135", "145"]
+		},
+		"Psychic": {
+			"Strong Against": ["Fighting", "Poison"],
+			"Weak Against": ["Steel", "Psychic", "Dark"],
+			"Resistant To": ["Fighting", "Psychic"],
+			"Vulnerable To": ["Bug", "Ghost", "Dark"],
+			"#": [
+				"63",
+				"64",
+				"65",
+				"79",
+				"80",
+				"96",
+				"97",
+				"102",
+				"103",
+				"121",
+				"122",
+				"124",
+				"150",
+				"151"
+			]
+		},
+		"Ice": {
+			"Strong Against": ["Flying", "Ground", "Grass", "Dragon"],
+			"Weak Against": ["Steel", "Fire", "Water", "Ice"],
+			"Resistant To": ["Ice"],
+			"Vulnerable To": ["Fighting", "Rock", "Steel", "Fire"],
+			"#": ["87", "91", "124", "131", "144"]
+		},
+		"Dragon": {
+			"Strong Against": ["Dragon"],
+			"Weak Against": ["Steel", "Fairy"],
+			"Resistant To": ["Fire", "Water", "Grass", "Electric"],
+			"Vulnerable To": ["Ice", "Dragon", "Fairy"],
+			"#": ["147", "148", "149"]
+		},
+		"Fairy": {
+			"Strong Against": ["Fighting", "Dragon", "Dark"],
+			"Weak Against": ["Poison", "Steel", "Fire"],
+			"Resistant To": ["Fighting", "Bug", "Dragon", "Dark"],
+			"Vulnerable To": ["Poison", "Steel"],
+			"#": ["35", "36", "39", "40", "122"]
+		},
+		"Dark": {
+			"Strong Against": ["Ghost", "Psychic"],
+			"Weak Against": ["Fighting", "Dark", "Fairy"],
+			"Resistant To": ["Ghost", "Psychic", "Dark"],
+			"Vulnerable To": ["Fighting", "Bug", "Fairy"],
+			"#": []
+		}
+	},
+	"Images": {
+		"1": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/bulbasaur.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/bulbasaur.gif",
+			"Big": "https://img.pokemondb.net/artwork/bulbasaur.jpg"
+		},
+		"2": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/ivysaur.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/ivysaur.gif",
+			"Big": "https://img.pokemondb.net/artwork/ivysaur.jpg"
+		},
+		"3": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/venusaur.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/venusaur.gif",
+			"Big": "https://img.pokemondb.net/artwork/venusaur.jpg"
+		},
+		"4": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/charmander.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/charmander.gif",
+			"Big": "https://img.pokemondb.net/artwork/charmander.jpg"
+		},
+		"5": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/charmeleon.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/charmeleon.gif",
+			"Big": "https://img.pokemondb.net/artwork/charmeleon.jpg"
+		},
+		"6": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/charizard.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/charizard.gif",
+			"Big": "https://img.pokemondb.net/artwork/charizard.jpg"
+		},
+		"7": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/squirtle.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/squirtle.gif",
+			"Big": "https://img.pokemondb.net/artwork/squirtle.jpg"
+		},
+		"8": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/wartortle.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/wartortle.gif",
+			"Big": "https://img.pokemondb.net/artwork/wartortle.jpg"
+		},
+		"9": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/blastoise.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/blastoise.gif",
+			"Big": "https://img.pokemondb.net/artwork/blastoise.jpg"
+		},
+		"10": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/caterpie.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/caterpie.gif",
+			"Big": "https://img.pokemondb.net/artwork/caterpie.jpg"
+		},
+		"11": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/metapod.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/metapod.gif",
+			"Big": "https://img.pokemondb.net/artwork/metapod.jpg"
+		},
+		"12": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/butterfree.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/butterfree.gif",
+			"Big": "https://img.pokemondb.net/artwork/butterfree.jpg"
+		},
+		"13": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/weedle.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/weedle.gif",
+			"Big": "https://img.pokemondb.net/artwork/weedle.jpg"
+		},
+		"14": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/kakuna.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/kakuna.gif",
+			"Big": "https://img.pokemondb.net/artwork/kakuna.jpg"
+		},
+		"15": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/beedrill.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/beedrill.gif",
+			"Big": "https://img.pokemondb.net/artwork/beedrill.jpg"
+		},
+		"16": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/pidgey.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/pidgey.gif",
+			"Big": "https://img.pokemondb.net/artwork/pidgey.jpg"
+		},
+		"17": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/pidgeotto.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/pidgeotto.gif",
+			"Big": "https://img.pokemondb.net/artwork/pidgeotto.jpg"
+		},
+		"18": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/pidgeot.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/pidgeot.gif",
+			"Big": "https://img.pokemondb.net/artwork/pidgeot.jpg"
+		},
+		"19": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/rattata.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/rattata.gif",
+			"Big": "https://img.pokemondb.net/artwork/rattata.jpg"
+		},
+		"20": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/raticate.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/raticate.gif",
+			"Big": "https://img.pokemondb.net/artwork/raticate.jpg"
+		},
+		"21": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/spearow.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/spearow.gif",
+			"Big": "https://img.pokemondb.net/artwork/spearow.jpg"
+		},
+		"22": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/fearow.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/fearow.gif",
+			"Big": "https://img.pokemondb.net/artwork/fearow.jpg"
+		},
+		"23": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/ekans.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/ekans.gif",
+			"Big": "https://img.pokemondb.net/artwork/ekans.jpg"
+		},
+		"24": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/arbok.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/arbok.gif",
+			"Big": "https://img.pokemondb.net/artwork/arbok.jpg"
+		},
+		"25": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/pikachu.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/pikachu.gif",
+			"Big": "https://img.pokemondb.net/artwork/pikachu.jpg"
+		},
+		"26": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/raichu.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/raichu.gif",
+			"Big": "https://img.pokemondb.net/artwork/raichu.jpg"
+		},
+		"27": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/sandshrew.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/sandshrew.gif",
+			"Big": "https://img.pokemondb.net/artwork/sandshrew.jpg"
+		},
+		"28": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/sandslash.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/sandslash.gif",
+			"Big": "https://img.pokemondb.net/artwork/sandslash.jpg"
+		},
+		"29": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/nidoran\u2640.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/nidoran\u2640.gif",
+			"Big": "https://img.pokemondb.net/artwork/nidoran\u2640.jpg"
+		},
+		"30": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/nidorina.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/nidorina.gif",
+			"Big": "https://img.pokemondb.net/artwork/nidorina.jpg"
+		},
+		"31": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/nidoqueen.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/nidoqueen.gif",
+			"Big": "https://img.pokemondb.net/artwork/nidoqueen.jpg"
+		},
+		"32": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/nidoran\u2642.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/nidoran\u2642.gif",
+			"Big": "https://img.pokemondb.net/artwork/nidoran\u2642.jpg"
+		},
+		"33": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/nidorino.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/nidorino.gif",
+			"Big": "https://img.pokemondb.net/artwork/nidorino.jpg"
+		},
+		"34": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/nidoking.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/nidoking.gif",
+			"Big": "https://img.pokemondb.net/artwork/nidoking.jpg"
+		},
+		"35": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/clefairy.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/clefairy.gif",
+			"Big": "https://img.pokemondb.net/artwork/clefairy.jpg"
+		},
+		"36": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/clefable.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/clefable.gif",
+			"Big": "https://img.pokemondb.net/artwork/clefable.jpg"
+		},
+		"37": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/vulpix.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/vulpix.gif",
+			"Big": "https://img.pokemondb.net/artwork/vulpix.jpg"
+		},
+		"38": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/ninetales.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/ninetales.gif",
+			"Big": "https://img.pokemondb.net/artwork/ninetales.jpg"
+		},
+		"39": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/jigglypuff.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/jigglypuff.gif",
+			"Big": "https://img.pokemondb.net/artwork/jigglypuff.jpg"
+		},
+		"40": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/wigglytuff.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/wigglytuff.gif",
+			"Big": "https://img.pokemondb.net/artwork/wigglytuff.jpg"
+		},
+		"41": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/zubat.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/zubat.gif",
+			"Big": "https://img.pokemondb.net/artwork/zubat.jpg"
+		},
+		"42": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/golbat.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/golbat.gif",
+			"Big": "https://img.pokemondb.net/artwork/golbat.jpg"
+		},
+		"43": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/oddish.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/oddish.gif",
+			"Big": "https://img.pokemondb.net/artwork/oddish.jpg"
+		},
+		"44": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/gloom.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/gloom.gif",
+			"Big": "https://img.pokemondb.net/artwork/gloom.jpg"
+		},
+		"45": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/vileplume.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/vileplume.gif",
+			"Big": "https://img.pokemondb.net/artwork/vileplume.jpg"
+		},
+		"46": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/paras.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/paras.gif",
+			"Big": "https://img.pokemondb.net/artwork/paras.jpg"
+		},
+		"47": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/parasect.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/parasect.gif",
+			"Big": "https://img.pokemondb.net/artwork/parasect.jpg"
+		},
+		"48": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/venonat.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/venonat.gif",
+			"Big": "https://img.pokemondb.net/artwork/venonat.jpg"
+		},
+		"49": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/venomoth.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/venomoth.gif",
+			"Big": "https://img.pokemondb.net/artwork/venomoth.jpg"
+		},
+		"50": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/diglett.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/diglett.gif",
+			"Big": "https://img.pokemondb.net/artwork/diglett.jpg"
+		},
+		"51": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/dugtrio.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/dugtrio.gif",
+			"Big": "https://img.pokemondb.net/artwork/dugtrio.jpg"
+		},
+		"52": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/meowth.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/meowth.gif",
+			"Big": "https://img.pokemondb.net/artwork/meowth.jpg"
+		},
+		"53": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/persian.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/persian.gif",
+			"Big": "https://img.pokemondb.net/artwork/persian.jpg"
+		},
+		"54": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/psyduck.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/psyduck.gif",
+			"Big": "https://img.pokemondb.net/artwork/psyduck.jpg"
+		},
+		"55": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/golduck.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/golduck.gif",
+			"Big": "https://img.pokemondb.net/artwork/golduck.jpg"
+		},
+		"56": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/mankey.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/mankey.gif",
+			"Big": "https://img.pokemondb.net/artwork/mankey.jpg"
+		},
+		"57": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/primeape.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/primeape.gif",
+			"Big": "https://img.pokemondb.net/artwork/primeape.jpg"
+		},
+		"58": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/growlithe.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/growlithe.gif",
+			"Big": "https://img.pokemondb.net/artwork/growlithe.jpg"
+		},
+		"59": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/arcanine.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/arcanine.gif",
+			"Big": "https://img.pokemondb.net/artwork/arcanine.jpg"
+		},
+		"60": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/poliwag.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/poliwag.gif",
+			"Big": "https://img.pokemondb.net/artwork/poliwag.jpg"
+		},
+		"61": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/poliwhirl.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/poliwhirl.gif",
+			"Big": "https://img.pokemondb.net/artwork/poliwhirl.jpg"
+		},
+		"62": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/poliwrath.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/poliwrath.gif",
+			"Big": "https://img.pokemondb.net/artwork/poliwrath.jpg"
+		},
+		"63": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/abra.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/abra.gif",
+			"Big": "https://img.pokemondb.net/artwork/abra.jpg"
+		},
+		"64": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/kadabra.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/kadabra.gif",
+			"Big": "https://img.pokemondb.net/artwork/kadabra.jpg"
+		},
+		"65": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/alakazam.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/alakazam.gif",
+			"Big": "https://img.pokemondb.net/artwork/alakazam.jpg"
+		},
+		"66": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/machop.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/machop.gif",
+			"Big": "https://img.pokemondb.net/artwork/machop.jpg"
+		},
+		"67": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/machoke.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/machoke.gif",
+			"Big": "https://img.pokemondb.net/artwork/machoke.jpg"
+		},
+		"68": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/machamp.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/machamp.gif",
+			"Big": "https://img.pokemondb.net/artwork/machamp.jpg"
+		},
+		"69": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/bellsprout.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/bellsprout.gif",
+			"Big": "https://img.pokemondb.net/artwork/bellsprout.jpg"
+		},
+		"70": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/weepinbell.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/weepinbell.gif",
+			"Big": "https://img.pokemondb.net/artwork/weepinbell.jpg"
+		},
+		"71": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/victreebel.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/victreebel.gif",
+			"Big": "https://img.pokemondb.net/artwork/victreebel.jpg"
+		},
+		"72": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/tentacool.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/tentacool.gif",
+			"Big": "https://img.pokemondb.net/artwork/tentacool.jpg"
+		},
+		"73": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/tentacruel.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/tentacruel.gif",
+			"Big": "https://img.pokemondb.net/artwork/tentacruel.jpg"
+		},
+		"74": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/geodude.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/geodude.gif",
+			"Big": "https://img.pokemondb.net/artwork/geodude.jpg"
+		},
+		"75": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/graveler.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/graveler.gif",
+			"Big": "https://img.pokemondb.net/artwork/graveler.jpg"
+		},
+		"76": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/golem.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/golem.gif",
+			"Big": "https://img.pokemondb.net/artwork/golem.jpg"
+		},
+		"77": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/ponyta.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/ponyta.gif",
+			"Big": "https://img.pokemondb.net/artwork/ponyta.jpg"
+		},
+		"78": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/rapidash.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/rapidash.gif",
+			"Big": "https://img.pokemondb.net/artwork/rapidash.jpg"
+		},
+		"79": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/slowpoke.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/slowpoke.gif",
+			"Big": "https://img.pokemondb.net/artwork/slowpoke.jpg"
+		},
+		"80": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/slowbro.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/slowbro.gif",
+			"Big": "https://img.pokemondb.net/artwork/slowbro.jpg"
+		},
+		"81": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/magnemite.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/magnemite.gif",
+			"Big": "https://img.pokemondb.net/artwork/magnemite.jpg"
+		},
+		"82": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/magneton.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/magneton.gif",
+			"Big": "https://img.pokemondb.net/artwork/magneton.jpg"
+		},
+		"83": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/farfetch'd.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/farfetch'd.gif",
+			"Big": "https://img.pokemondb.net/artwork/farfetch'd.jpg"
+		},
+		"84": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/doduo.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/doduo.gif",
+			"Big": "https://img.pokemondb.net/artwork/doduo.jpg"
+		},
+		"85": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/dodrio.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/dodrio.gif",
+			"Big": "https://img.pokemondb.net/artwork/dodrio.jpg"
+		},
+		"86": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/seel.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/seel.gif",
+			"Big": "https://img.pokemondb.net/artwork/seel.jpg"
+		},
+		"87": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/dewgong.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/dewgong.gif",
+			"Big": "https://img.pokemondb.net/artwork/dewgong.jpg"
+		},
+		"88": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/grimer.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/grimer.gif",
+			"Big": "https://img.pokemondb.net/artwork/grimer.jpg"
+		},
+		"89": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/muk.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/muk.gif",
+			"Big": "https://img.pokemondb.net/artwork/muk.jpg"
+		},
+		"90": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/shellder.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/shellder.gif",
+			"Big": "https://img.pokemondb.net/artwork/shellder.jpg"
+		},
+		"91": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/cloyster.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/cloyster.gif",
+			"Big": "https://img.pokemondb.net/artwork/cloyster.jpg"
+		},
+		"92": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/gastly.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/gastly.gif",
+			"Big": "https://img.pokemondb.net/artwork/gastly.jpg"
+		},
+		"93": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/haunter.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/haunter.gif",
+			"Big": "https://img.pokemondb.net/artwork/haunter.jpg"
+		},
+		"94": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/gengar.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/gengar.gif",
+			"Big": "https://img.pokemondb.net/artwork/gengar.jpg"
+		},
+		"95": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/onix.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/onix.gif",
+			"Big": "https://img.pokemondb.net/artwork/onix.jpg"
+		},
+		"96": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/drowzee.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/drowzee.gif",
+			"Big": "https://img.pokemondb.net/artwork/drowzee.jpg"
+		},
+		"97": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/hypno.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/hypno.gif",
+			"Big": "https://img.pokemondb.net/artwork/hypno.jpg"
+		},
+		"98": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/krabby.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/krabby.gif",
+			"Big": "https://img.pokemondb.net/artwork/krabby.jpg"
+		},
+		"99": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/kingler.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/kingler.gif",
+			"Big": "https://img.pokemondb.net/artwork/kingler.jpg"
+		},
+		"100": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/voltorb.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/voltorb.gif",
+			"Big": "https://img.pokemondb.net/artwork/voltorb.jpg"
+		},
+		"101": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/electrode.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/electrode.gif",
+			"Big": "https://img.pokemondb.net/artwork/electrode.jpg"
+		},
+		"102": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/exeggcute.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/exeggcute.gif",
+			"Big": "https://img.pokemondb.net/artwork/exeggcute.jpg"
+		},
+		"103": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/exeggutor.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/exeggutor.gif",
+			"Big": "https://img.pokemondb.net/artwork/exeggutor.jpg"
+		},
+		"104": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/cubone.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/cubone.gif",
+			"Big": "https://img.pokemondb.net/artwork/cubone.jpg"
+		},
+		"105": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/marowak.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/marowak.gif",
+			"Big": "https://img.pokemondb.net/artwork/marowak.jpg"
+		},
+		"106": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/hitmonlee.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/hitmonlee.gif",
+			"Big": "https://img.pokemondb.net/artwork/hitmonlee.jpg"
+		},
+		"107": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/hitmonchan.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/hitmonchan.gif",
+			"Big": "https://img.pokemondb.net/artwork/hitmonchan.jpg"
+		},
+		"108": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/lickitung.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/lickitung.gif",
+			"Big": "https://img.pokemondb.net/artwork/lickitung.jpg"
+		},
+		"109": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/koffing.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/koffing.gif",
+			"Big": "https://img.pokemondb.net/artwork/koffing.jpg"
+		},
+		"110": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/weezing.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/weezing.gif",
+			"Big": "https://img.pokemondb.net/artwork/weezing.jpg"
+		},
+		"111": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/rhyhorn.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/rhyhorn.gif",
+			"Big": "https://img.pokemondb.net/artwork/rhyhorn.jpg"
+		},
+		"112": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/rhydon.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/rhydon.gif",
+			"Big": "https://img.pokemondb.net/artwork/rhydon.jpg"
+		},
+		"113": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/chansey.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/chansey.gif",
+			"Big": "https://img.pokemondb.net/artwork/chansey.jpg"
+		},
+		"114": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/tangela.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/tangela.gif",
+			"Big": "https://img.pokemondb.net/artwork/tangela.jpg"
+		},
+		"115": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/kangaskhan.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/kangaskhan.gif",
+			"Big": "https://img.pokemondb.net/artwork/kangaskhan.jpg"
+		},
+		"116": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/horsea.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/horsea.gif",
+			"Big": "https://img.pokemondb.net/artwork/horsea.jpg"
+		},
+		"117": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/seadra.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/seadra.gif",
+			"Big": "https://img.pokemondb.net/artwork/seadra.jpg"
+		},
+		"118": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/goldeen.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/goldeen.gif",
+			"Big": "https://img.pokemondb.net/artwork/goldeen.jpg"
+		},
+		"119": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/seaking.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/seaking.gif",
+			"Big": "https://img.pokemondb.net/artwork/seaking.jpg"
+		},
+		"120": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/staryu.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/staryu.gif",
+			"Big": "https://img.pokemondb.net/artwork/staryu.jpg"
+		},
+		"121": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/starmie.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/starmie.gif",
+			"Big": "https://img.pokemondb.net/artwork/starmie.jpg"
+		},
+		"122": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/mr. mime.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/mr. mime.gif",
+			"Big": "https://img.pokemondb.net/artwork/mr. mime.jpg"
+		},
+		"123": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/scyther.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/scyther.gif",
+			"Big": "https://img.pokemondb.net/artwork/scyther.jpg"
+		},
+		"124": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/jynx.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/jynx.gif",
+			"Big": "https://img.pokemondb.net/artwork/jynx.jpg"
+		},
+		"125": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/electabuzz.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/electabuzz.gif",
+			"Big": "https://img.pokemondb.net/artwork/electabuzz.jpg"
+		},
+		"126": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/magmar.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/magmar.gif",
+			"Big": "https://img.pokemondb.net/artwork/magmar.jpg"
+		},
+		"127": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/pinsir.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/pinsir.gif",
+			"Big": "https://img.pokemondb.net/artwork/pinsir.jpg"
+		},
+		"128": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/tauros.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/tauros.gif",
+			"Big": "https://img.pokemondb.net/artwork/tauros.jpg"
+		},
+		"129": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/magikarp.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/magikarp.gif",
+			"Big": "https://img.pokemondb.net/artwork/magikarp.jpg"
+		},
+		"130": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/gyarados.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/gyarados.gif",
+			"Big": "https://img.pokemondb.net/artwork/gyarados.jpg"
+		},
+		"131": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/lapras.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/lapras.gif",
+			"Big": "https://img.pokemondb.net/artwork/lapras.jpg"
+		},
+		"132": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/ditto.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/ditto.gif",
+			"Big": "https://img.pokemondb.net/artwork/ditto.jpg"
+		},
+		"133": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/eevee.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/eevee.gif",
+			"Big": "https://img.pokemondb.net/artwork/eevee.jpg"
+		},
+		"134": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/vaporeon.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/vaporeon.gif",
+			"Big": "https://img.pokemondb.net/artwork/vaporeon.jpg"
+		},
+		"135": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/jolteon.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/jolteon.gif",
+			"Big": "https://img.pokemondb.net/artwork/jolteon.jpg"
+		},
+		"136": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/flareon.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/flareon.gif",
+			"Big": "https://img.pokemondb.net/artwork/flareon.jpg"
+		},
+		"137": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/porygon.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/porygon.gif",
+			"Big": "https://img.pokemondb.net/artwork/porygon.jpg"
+		},
+		"138": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/omanyte.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/omanyte.gif",
+			"Big": "https://img.pokemondb.net/artwork/omanyte.jpg"
+		},
+		"139": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/omastar.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/omastar.gif",
+			"Big": "https://img.pokemondb.net/artwork/omastar.jpg"
+		},
+		"140": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/kabuto.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/kabuto.gif",
+			"Big": "https://img.pokemondb.net/artwork/kabuto.jpg"
+		},
+		"141": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/kabutops.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/kabutops.gif",
+			"Big": "https://img.pokemondb.net/artwork/kabutops.jpg"
+		},
+		"142": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/aerodactyl.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/aerodactyl.gif",
+			"Big": "https://img.pokemondb.net/artwork/aerodactyl.jpg"
+		},
+		"143": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/snorlax.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/snorlax.gif",
+			"Big": "https://img.pokemondb.net/artwork/snorlax.jpg"
+		},
+		"144": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/articuno.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/articuno.gif",
+			"Big": "https://img.pokemondb.net/artwork/articuno.jpg"
+		},
+		"145": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/zapdos.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/zapdos.gif",
+			"Big": "https://img.pokemondb.net/artwork/zapdos.jpg"
+		},
+		"146": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/moltres.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/moltres.gif",
+			"Big": "https://img.pokemondb.net/artwork/moltres.jpg"
+		},
+		"147": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/dratini.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/dratini.gif",
+			"Big": "https://img.pokemondb.net/artwork/dratini.jpg"
+		},
+		"148": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/dragonair.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/dragonair.gif",
+			"Big": "https://img.pokemondb.net/artwork/dragonair.jpg"
+		},
+		"149": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/dragonite.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/dragonite.gif",
+			"Big": "https://img.pokemondb.net/artwork/dragonite.jpg"
+		},
+		"150": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/mewtwo.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/mewtwo.gif",
+			"Big": "https://img.pokemondb.net/artwork/mewtwo.jpg"
+		},
+		"151": {
+			"Home": "https://img.pokemondb.net/sprites/home/normal/mew.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/mew.gif",
+			"Big": "https://img.pokemondb.net/artwork/mew.jpg"
+		}
+	}
+}
