@@ -9,7 +9,12 @@
 			"Defense": 49,
 			"Sp. Atk": 65,
 			"Sp. Def": 65,
-			"Speed": 45
+			"Speed": 45,
+			"Species": "Seed Pok\u00e9mon",
+			"Height": "0.7\u00a0m (2\u203204\u2033)",
+			"Weight": "6.9\u00a0kg (15.2\u00a0lbs)",
+			"Abilities": ["Overgrow", "Chlorophyll (hidden ability)"],
+			"Entry": "A strange seed was planted on its back at birth. The plant sprouts and grows with this POK\u00e9MON."
 		},
 		"2": {
 			"Name": "Ivysaur",
@@ -20,7 +25,12 @@
 			"Defense": 63,
 			"Sp. Atk": 80,
 			"Sp. Def": 80,
-			"Speed": 60
+			"Speed": 60,
+			"Species": "Seed Pok\u00e9mon",
+			"Height": "1.0\u00a0m (3\u203203\u2033)",
+			"Weight": "13.0\u00a0kg (28.7\u00a0lbs)",
+			"Abilities": ["Overgrow", "Chlorophyll (hidden ability)"],
+			"Entry": "When the bulb on its back grows large, it appears to lose the ability to stand on its hind legs."
 		},
 		"3": {
 			"Name": "Venusaur",
@@ -31,7 +41,12 @@
 			"Defense": 83,
 			"Sp. Atk": 100,
 			"Sp. Def": 100,
-			"Speed": 80
+			"Speed": 80,
+			"Species": "Seed Pok\u00e9mon",
+			"Height": "2.0\u00a0m (6\u203207\u2033)",
+			"Weight": "100.0\u00a0kg (220.5\u00a0lbs)",
+			"Abilities": ["Overgrow", "Chlorophyll (hidden ability)"],
+			"Entry": "The plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight."
 		},
 		"4": {
 			"Name": "Charmander",
@@ -42,7 +57,12 @@
 			"Defense": 43,
 			"Sp. Atk": 60,
 			"Sp. Def": 50,
-			"Speed": 65
+			"Speed": 65,
+			"Species": "Lizard Pok\u00e9mon",
+			"Height": "0.6\u00a0m (2\u203200\u2033)",
+			"Weight": "8.5\u00a0kg (18.7\u00a0lbs)",
+			"Abilities": ["Blaze", "Solar Power (hidden ability)"],
+			"Entry": "Obviously prefers hot places. When it rains, steam is said to spout from the tip of its tail."
 		},
 		"5": {
 			"Name": "Charmeleon",
@@ -53,7 +73,12 @@
 			"Defense": 58,
 			"Sp. Atk": 80,
 			"Sp. Def": 65,
-			"Speed": 80
+			"Speed": 80,
+			"Species": "Flame Pok\u00e9mon",
+			"Height": "1.1\u00a0m (3\u203207\u2033)",
+			"Weight": "19.0\u00a0kg (41.9\u00a0lbs)",
+			"Abilities": ["Blaze", "Solar Power (hidden ability)"],
+			"Entry": "When it swings its burning tail, it elevates the temperature to unbearably high levels."
 		},
 		"6": {
 			"Name": "Charizard",
@@ -64,7 +89,12 @@
 			"Defense": 78,
 			"Sp. Atk": 109,
 			"Sp. Def": 85,
-			"Speed": 100
+			"Speed": 100,
+			"Species": "Flame Pok\u00e9mon",
+			"Height": "1.7\u00a0m (5\u203207\u2033)",
+			"Weight": "90.5\u00a0kg (199.5\u00a0lbs)",
+			"Abilities": ["Blaze", "Solar Power (hidden ability)"],
+			"Entry": "Spits fire that is hot enough to melt boulders. Known to cause forest fires unintentionally."
 		},
 		"7": {
 			"Name": "Squirtle",
@@ -75,7 +105,12 @@
 			"Defense": 65,
 			"Sp. Atk": 50,
 			"Sp. Def": 64,
-			"Speed": 43
+			"Speed": 43,
+			"Species": "Tiny Turtle Pok\u00e9mon",
+			"Height": "0.5\u00a0m (1\u203208\u2033)",
+			"Weight": "9.0\u00a0kg (19.8\u00a0lbs)",
+			"Abilities": ["Torrent", "Rain Dish (hidden ability)"],
+			"Entry": "After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth."
 		},
 		"8": {
 			"Name": "Wartortle",
@@ -86,7 +121,12 @@
 			"Defense": 80,
 			"Sp. Atk": 65,
 			"Sp. Def": 80,
-			"Speed": 58
+			"Speed": 58,
+			"Species": "Turtle Pok\u00e9mon",
+			"Height": "1.0\u00a0m (3\u203203\u2033)",
+			"Weight": "22.5\u00a0kg (49.6\u00a0lbs)",
+			"Abilities": ["Torrent", "Rain Dish (hidden ability)"],
+			"Entry": "Often hides in water to stalk unwary prey. For swimming fast, it moves its ears to maintain balance."
 		},
 		"9": {
 			"Name": "Blastoise",
@@ -97,7 +137,12 @@
 			"Defense": 100,
 			"Sp. Atk": 85,
 			"Sp. Def": 105,
-			"Speed": 78
+			"Speed": 78,
+			"Species": "Shellfish Pok\u00e9mon",
+			"Height": "1.6\u00a0m (5\u203203\u2033)",
+			"Weight": "85.5\u00a0kg (188.5\u00a0lbs)",
+			"Abilities": ["Torrent", "Rain Dish (hidden ability)"],
+			"Entry": "A brutal POK\u00e9MON with pressurized water jets on its shell. They are used for high speed tackles."
 		},
 		"10": {
 			"Name": "Caterpie",
@@ -108,7 +153,12 @@
 			"Defense": 35,
 			"Sp. Atk": 20,
 			"Sp. Def": 20,
-			"Speed": 45
+			"Speed": 45,
+			"Species": "Worm Pok\u00e9mon",
+			"Height": "0.3\u00a0m (1\u203200\u2033)",
+			"Weight": "2.9\u00a0kg (6.4\u00a0lbs)",
+			"Abilities": ["Shield Dust", "Run Away (hidden ability)"],
+			"Entry": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls."
 		},
 		"11": {
 			"Name": "Metapod",
@@ -119,7 +169,12 @@
 			"Defense": 55,
 			"Sp. Atk": 25,
 			"Sp. Def": 25,
-			"Speed": 30
+			"Speed": 30,
+			"Species": "Cocoon Pok\u00e9mon",
+			"Height": "0.7\u00a0m (2\u203204\u2033)",
+			"Weight": "9.9\u00a0kg (21.8\u00a0lbs)",
+			"Abilities": ["Shed Skin"],
+			"Entry": "This POK\u00e9MON is vulnerable to attack while its shell is soft, exposing its weak and tender body."
 		},
 		"12": {
 			"Name": "Butterfree",
@@ -130,7 +185,12 @@
 			"Defense": 50,
 			"Sp. Atk": 90,
 			"Sp. Def": 80,
-			"Speed": 70
+			"Speed": 70,
+			"Species": "Butterfly Pok\u00e9mon",
+			"Height": "1.1\u00a0m (3\u203207\u2033)",
+			"Weight": "32.0\u00a0kg (70.5\u00a0lbs)",
+			"Abilities": ["Compound Eyes", "Tinted Lens (hidden ability)"],
+			"Entry": "In battle, it flaps its wings at high speed to release highly toxic dust into the air."
 		},
 		"13": {
 			"Name": "Weedle",
@@ -141,7 +201,12 @@
 			"Defense": 30,
 			"Sp. Atk": 20,
 			"Sp. Def": 20,
-			"Speed": 50
+			"Speed": 50,
+			"Species": "Hairy Bug Pok\u00e9mon",
+			"Height": "0.3\u00a0m (1\u203200\u2033)",
+			"Weight": "3.2\u00a0kg (7.1\u00a0lbs)",
+			"Abilities": ["Shield Dust", "Run Away (hidden ability)"],
+			"Entry": "Often found in forests, eating leaves. It has a sharp venomous stinger on its head."
 		},
 		"14": {
 			"Name": "Kakuna",
@@ -152,7 +217,12 @@
 			"Defense": 50,
 			"Sp. Atk": 25,
 			"Sp. Def": 25,
-			"Speed": 35
+			"Speed": 35,
+			"Species": "Cocoon Pok\u00e9mon",
+			"Height": "0.6\u00a0m (2\u203200\u2033)",
+			"Weight": "10.0\u00a0kg (22.0\u00a0lbs)",
+			"Abilities": ["Shed Skin"],
+			"Entry": "Almost incapable of moving, this POK\u00e9MON can only harden its shell to protect itself from predators."
 		},
 		"15": {
 			"Name": "Beedrill",
@@ -163,7 +233,12 @@
 			"Defense": 40,
 			"Sp. Atk": 45,
 			"Sp. Def": 80,
-			"Speed": 75
+			"Speed": 75,
+			"Species": "Poison Bee Pok\u00e9mon",
+			"Height": "1.0\u00a0m (3\u203203\u2033)",
+			"Weight": "29.5\u00a0kg (65.0\u00a0lbs)",
+			"Abilities": ["Swarm", "Sniper (hidden ability)"],
+			"Entry": "Flies at high speed and attacks using its large venomous stingers on its forelegs and tail."
 		},
 		"16": {
 			"Name": "Pidgey",
@@ -174,7 +249,12 @@
 			"Defense": 40,
 			"Sp. Atk": 35,
 			"Sp. Def": 35,
-			"Speed": 56
+			"Speed": 56,
+			"Species": "Tiny Bird Pok\u00e9mon",
+			"Height": "0.3\u00a0m (1\u203200\u2033)",
+			"Weight": "1.8\u00a0kg (4.0\u00a0lbs)",
+			"Abilities": ["Keen Eye", "Tangled Feet", "Big Pecks (hidden ability)"],
+			"Entry": "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand."
 		},
 		"17": {
 			"Name": "Pidgeotto",
@@ -185,7 +265,12 @@
 			"Defense": 55,
 			"Sp. Atk": 50,
 			"Sp. Def": 50,
-			"Speed": 71
+			"Speed": 71,
+			"Species": "Bird Pok\u00e9mon",
+			"Height": "1.1\u00a0m (3\u203207\u2033)",
+			"Weight": "30.0\u00a0kg (66.1\u00a0lbs)",
+			"Abilities": ["Keen Eye", "Tangled Feet", "Big Pecks (hidden ability)"],
+			"Entry": "Very protective of its sprawling territorial area, this POK\u00e9MON will fiercely peck at any intruder."
 		},
 		"18": {
 			"Name": "Pidgeot",
@@ -196,7 +281,12 @@
 			"Defense": 75,
 			"Sp. Atk": 70,
 			"Sp. Def": 70,
-			"Speed": 101
+			"Speed": 101,
+			"Species": "Bird Pok\u00e9mon",
+			"Height": "1.5\u00a0m (4\u203211\u2033)",
+			"Weight": "39.5\u00a0kg (87.1\u00a0lbs)",
+			"Abilities": ["Keen Eye", "Tangled Feet", "Big Pecks (hidden ability)"],
+			"Entry": "When hunting, it skims the surface of water at high speed to pick off unwary prey such as MAGIKARP."
 		},
 		"19": {
 			"Name": "Rattata",
@@ -207,7 +297,12 @@
 			"Defense": 35,
 			"Sp. Atk": 25,
 			"Sp. Def": 35,
-			"Speed": 72
+			"Speed": 72,
+			"Species": "Mouse Pok\u00e9mon",
+			"Height": "0.3\u00a0m (1\u203200\u2033)",
+			"Weight": "3.5\u00a0kg (7.7\u00a0lbs)",
+			"Abilities": ["Run Away ", "Guts", "Hustle (hidden ability)"],
+			"Entry": "Bites anything when it attacks. Small and very quick, it is a common sight in many places."
 		},
 		"20": {
 			"Name": "Raticate",
@@ -218,7 +313,12 @@
 			"Defense": 60,
 			"Sp. Atk": 50,
 			"Sp. Def": 70,
-			"Speed": 97
+			"Speed": 97,
+			"Species": "Mouse Pok\u00e9mon",
+			"Height": "0.7\u00a0m (2\u203204\u2033)",
+			"Weight": "18.5\u00a0kg (40.8\u00a0lbs)",
+			"Abilities": ["Run Away ", "Guts", "Hustle (hidden ability)"],
+			"Entry": "It uses its whiskers to maintain its balance. It apparently slows down if they are cut off."
 		},
 		"21": {
 			"Name": "Spearow",
@@ -229,7 +329,12 @@
 			"Defense": 30,
 			"Sp. Atk": 31,
 			"Sp. Def": 31,
-			"Speed": 70
+			"Speed": 70,
+			"Species": "Tiny Bird Pok\u00e9mon",
+			"Height": "0.3\u00a0m (1\u203200\u2033)",
+			"Weight": "2.0\u00a0kg (4.4\u00a0lbs)",
+			"Abilities": ["Keen Eye", "Sniper (hidden ability)"],
+			"Entry": "Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne."
 		},
 		"22": {
 			"Name": "Fearow",
@@ -240,7 +345,12 @@
 			"Defense": 65,
 			"Sp. Atk": 61,
 			"Sp. Def": 61,
-			"Speed": 100
+			"Speed": 100,
+			"Species": "Beak Pok\u00e9mon",
+			"Height": "1.2\u00a0m (3\u203211\u2033)",
+			"Weight": "38.0\u00a0kg (83.8\u00a0lbs)",
+			"Abilities": ["Keen Eye", "Sniper (hidden ability)"],
+			"Entry": "With its huge and magnificent wings, it can keep aloft without ever having to land for rest."
 		},
 		"23": {
 			"Name": "Ekans",
@@ -251,7 +361,12 @@
 			"Defense": 44,
 			"Sp. Atk": 40,
 			"Sp. Def": 54,
-			"Speed": 55
+			"Speed": 55,
+			"Species": "Snake Pok\u00e9mon",
+			"Height": "2.0\u00a0m (6\u203207\u2033)",
+			"Weight": "6.9\u00a0kg (15.2\u00a0lbs)",
+			"Abilities": ["Intimidate", "Shed Skin", "Unnerve (hidden ability)"],
+			"Entry": "Moves silently and stealthily. Eats the eggs of birds, such as PIDGEY and SPEAROW, whole."
 		},
 		"24": {
 			"Name": "Arbok",
@@ -262,7 +377,12 @@
 			"Defense": 69,
 			"Sp. Atk": 65,
 			"Sp. Def": 79,
-			"Speed": 80
+			"Speed": 80,
+			"Species": "Cobra Pok\u00e9mon",
+			"Height": "3.5\u00a0m (11\u203206\u2033)",
+			"Weight": "65.0\u00a0kg (143.3\u00a0lbs)",
+			"Abilities": ["Intimidate", "Shed Skin", "Unnerve (hidden ability)"],
+			"Entry": "It is rumored that the ferocious warning markings on its belly differ from area to area."
 		},
 		"25": {
 			"Name": "Pikachu",
@@ -273,7 +393,12 @@
 			"Defense": 40,
 			"Sp. Atk": 50,
 			"Sp. Def": 50,
-			"Speed": 90
+			"Speed": 90,
+			"Species": "Mouse Pok\u00e9mon",
+			"Height": "0.4\u00a0m (1\u203204\u2033)",
+			"Weight": "6.0\u00a0kg (13.2\u00a0lbs)",
+			"Abilities": ["Static", "Lightning Rod (hidden ability)"],
+			"Entry": "When several of these POK\u00e9MON gather, their electricity could build and cause lightning storms."
 		},
 		"26": {
 			"Name": "Raichu",
@@ -284,7 +409,12 @@
 			"Defense": 55,
 			"Sp. Atk": 90,
 			"Sp. Def": 80,
-			"Speed": 110
+			"Speed": 110,
+			"Species": "Mouse Pok\u00e9mon",
+			"Height": "0.8\u00a0m (2\u203207\u2033)",
+			"Weight": "30.0\u00a0kg (66.1\u00a0lbs)",
+			"Abilities": ["Static", "Lightning Rod (hidden ability)"],
+			"Entry": "Its long tail serves as a ground to protect itself from its own high voltage power."
 		},
 		"27": {
 			"Name": "Sandshrew",
@@ -295,7 +425,12 @@
 			"Defense": 85,
 			"Sp. Atk": 20,
 			"Sp. Def": 30,
-			"Speed": 40
+			"Speed": 40,
+			"Species": "Mouse Pok\u00e9mon",
+			"Height": "0.6\u00a0m (2\u203200\u2033)",
+			"Weight": "12.0\u00a0kg (26.5\u00a0lbs)",
+			"Abilities": ["Sand Veil", "Sand Rush (hidden ability)"],
+			"Entry": "Burrows deep underground in arid locations far from water. It only emerges to hunt for food."
 		},
 		"28": {
 			"Name": "Sandslash",
@@ -306,7 +441,12 @@
 			"Defense": 110,
 			"Sp. Atk": 45,
 			"Sp. Def": 55,
-			"Speed": 65
+			"Speed": 65,
+			"Species": "Mouse Pok\u00e9mon",
+			"Height": "1.0\u00a0m (3\u203203\u2033)",
+			"Weight": "29.5\u00a0kg (65.0\u00a0lbs)",
+			"Abilities": ["Sand Veil", "Sand Rush (hidden ability)"],
+			"Entry": "Curls up into a spiny ball when threatened. It can roll while curled up to attack or escape."
 		},
 		"29": {
 			"Name": "Nidoran\u2640",
@@ -317,7 +457,12 @@
 			"Defense": 52,
 			"Sp. Atk": 40,
 			"Sp. Def": 40,
-			"Speed": 41
+			"Speed": 41,
+			"Species": "Poison Pin Pok\u00e9mon",
+			"Height": "0.4\u00a0m (1\u203204\u2033)",
+			"Weight": "7.0\u00a0kg (15.4\u00a0lbs)",
+			"Abilities": ["Poison Point", "Rivalry", "Hustle (hidden ability)"],
+			"Entry": "Although small, its venomous barbs render this POK\u00e9MON dangerous. The female has smaller horns."
 		},
 		"30": {
 			"Name": "Nidorina",
@@ -328,7 +473,12 @@
 			"Defense": 67,
 			"Sp. Atk": 55,
 			"Sp. Def": 55,
-			"Speed": 56
+			"Speed": 56,
+			"Species": "Poison Pin Pok\u00e9mon",
+			"Height": "0.8\u00a0m (2\u203207\u2033)",
+			"Weight": "20.0\u00a0kg (44.1\u00a0lbs)",
+			"Abilities": ["Poison Point", "Rivalry", "Hustle (hidden ability)"],
+			"Entry": "The female\u2019s horn develops slowly. Prefers physical attacks such as clawing and biting."
 		},
 		"31": {
 			"Name": "Nidoqueen",
@@ -339,7 +489,12 @@
 			"Defense": 87,
 			"Sp. Atk": 75,
 			"Sp. Def": 85,
-			"Speed": 76
+			"Speed": 76,
+			"Species": "Drill Pok\u00e9mon",
+			"Height": "1.3\u00a0m (4\u203203\u2033)",
+			"Weight": "60.0\u00a0kg (132.3\u00a0lbs)",
+			"Abilities": ["Poison Point", "Rivalry", "Sheer Force (hidden ability)"],
+			"Entry": "Its hard scales provide strong protection. It uses its hefty bulk to execute powerful moves."
 		},
 		"32": {
 			"Name": "Nidoran\u2642",
@@ -350,7 +505,12 @@
 			"Defense": 40,
 			"Sp. Atk": 40,
 			"Sp. Def": 40,
-			"Speed": 50
+			"Speed": 50,
+			"Species": "Poison Pin Pok\u00e9mon",
+			"Height": "0.5\u00a0m (1\u203208\u2033)",
+			"Weight": "9.0\u00a0kg (19.8\u00a0lbs)",
+			"Abilities": ["Poison Point", "Rivalry", "Sheer Force (hidden ability)"],
+			"Entry": "Stiffens its ears to sense danger. The larger its horns, the more powerful its secreted venom."
 		},
 		"33": {
 			"Name": "Nidorino",
@@ -361,7 +521,12 @@
 			"Defense": 57,
 			"Sp. Atk": 55,
 			"Sp. Def": 55,
-			"Speed": 65
+			"Speed": 65,
+			"Species": "Poison Pin Pok\u00e9mon",
+			"Height": "0.9\u00a0m (2\u203211\u2033)",
+			"Weight": "19.5\u00a0kg (43.0\u00a0lbs)",
+			"Abilities": ["Poison Point", "Rivalry", "Sheer Force (hidden ability)"],
+			"Entry": "An aggressive POK\u00e9MON that is quick to attack. The horn on its head secretes a powerful venom."
 		},
 		"34": {
 			"Name": "Nidoking",
@@ -372,7 +537,12 @@
 			"Defense": 77,
 			"Sp. Atk": 85,
 			"Sp. Def": 75,
-			"Speed": 85
+			"Speed": 85,
+			"Species": "Drill Pok\u00e9mon",
+			"Height": "1.4\u00a0m (4\u203207\u2033)",
+			"Weight": "62.0\u00a0kg (136.7\u00a0lbs)",
+			"Abilities": ["Poison Point", "Rivalry", "Sheer Force (hidden ability)"],
+			"Entry": "It uses its powerful tail in battle to smash, constrict, then break the prey\u2019s bones."
 		},
 		"35": {
 			"Name": "Clefairy",
@@ -383,7 +553,16 @@
 			"Defense": 48,
 			"Sp. Atk": 60,
 			"Sp. Def": 65,
-			"Speed": 35
+			"Speed": 35,
+			"Species": "Fairy Pok\u00e9mon",
+			"Height": "0.6\u00a0m (2\u203200\u2033)",
+			"Weight": "7.5\u00a0kg (16.5\u00a0lbs)",
+			"Abilities": [
+				"Cute Charm",
+				"Magic Guard",
+				"Friend Guard (hidden ability)"
+			],
+			"Entry": "Its magical and cute appeal has many admirers. It is rare and found only in certain areas."
 		},
 		"36": {
 			"Name": "Clefable",
@@ -394,7 +573,12 @@
 			"Defense": 73,
 			"Sp. Atk": 95,
 			"Sp. Def": 90,
-			"Speed": 60
+			"Speed": 60,
+			"Species": "Fairy Pok\u00e9mon",
+			"Height": "1.3\u00a0m (4\u203203\u2033)",
+			"Weight": "40.0\u00a0kg (88.2\u00a0lbs)",
+			"Abilities": ["Cute Charm", "Magic Guard", "Unaware (hidden ability)"],
+			"Entry": "A timid fairy POK\u00e9MON that is rarely seen. It will run and hide the moment it senses people."
 		},
 		"37": {
 			"Name": "Vulpix",
@@ -405,7 +589,12 @@
 			"Defense": 40,
 			"Sp. Atk": 50,
 			"Sp. Def": 65,
-			"Speed": 65
+			"Speed": 65,
+			"Species": "Fox Pok\u00e9mon",
+			"Height": "0.6\u00a0m (2\u203200\u2033)",
+			"Weight": "9.9\u00a0kg (21.8\u00a0lbs)",
+			"Abilities": ["Flash Fire", "Drought (hidden ability)"],
+			"Entry": "At the time of birth, it has just one tail. The tail splits from its tip as it grows older."
 		},
 		"38": {
 			"Name": "Ninetales",
@@ -416,7 +605,12 @@
 			"Defense": 75,
 			"Sp. Atk": 81,
 			"Sp. Def": 100,
-			"Speed": 100
+			"Speed": 100,
+			"Species": "Fox Pok\u00e9mon",
+			"Height": "1.1\u00a0m (3\u203207\u2033)",
+			"Weight": "19.9\u00a0kg (43.9\u00a0lbs)",
+			"Abilities": ["Flash Fire", "Drought (hidden ability)"],
+			"Entry": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1000-year curse."
 		},
 		"39": {
 			"Name": "Jigglypuff",
@@ -427,7 +621,16 @@
 			"Defense": 20,
 			"Sp. Atk": 45,
 			"Sp. Def": 25,
-			"Speed": 20
+			"Speed": 20,
+			"Species": "Balloon Pok\u00e9mon",
+			"Height": "0.5\u00a0m (1\u203208\u2033)",
+			"Weight": "5.5\u00a0kg (12.1\u00a0lbs)",
+			"Abilities": [
+				"Cute Charm",
+				"Competitive",
+				"Friend Guard (hidden ability)"
+			],
+			"Entry": "When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep."
 		},
 		"40": {
 			"Name": "Wigglytuff",
@@ -438,7 +641,12 @@
 			"Defense": 45,
 			"Sp. Atk": 85,
 			"Sp. Def": 50,
-			"Speed": 45
+			"Speed": 45,
+			"Species": "Balloon Pok\u00e9mon",
+			"Height": "1.0\u00a0m (3\u203203\u2033)",
+			"Weight": "12.0\u00a0kg (26.5\u00a0lbs)",
+			"Abilities": ["Cute Charm", "Competitive", "Frisk (hidden ability)"],
+			"Entry": "The body is soft and rubbery. When angered, it will suck in air and inflate itself to an enormous size."
 		},
 		"41": {
 			"Name": "Zubat",
@@ -449,7 +657,12 @@
 			"Defense": 35,
 			"Sp. Atk": 30,
 			"Sp. Def": 40,
-			"Speed": 55
+			"Speed": 55,
+			"Species": "Bat Pok\u00e9mon",
+			"Height": "0.8\u00a0m (2\u203207\u2033)",
+			"Weight": "7.5\u00a0kg (16.5\u00a0lbs)",
+			"Abilities": ["Inner Focus", "Infiltrator (hidden ability)"],
+			"Entry": "Forms colonies in perpetually dark places. Uses ultrasonic waves to identify and approach targets."
 		},
 		"42": {
 			"Name": "Golbat",
@@ -460,7 +673,12 @@
 			"Defense": 70,
 			"Sp. Atk": 65,
 			"Sp. Def": 75,
-			"Speed": 90
+			"Speed": 90,
+			"Species": "Bat Pok\u00e9mon",
+			"Height": "1.6\u00a0m (5\u203203\u2033)",
+			"Weight": "55.0\u00a0kg (121.3\u00a0lbs)",
+			"Abilities": ["Inner Focus", "Infiltrator (hidden ability)"],
+			"Entry": "Once it strikes, it will not stop draining energy from the victim even if it gets too heavy to fly."
 		},
 		"43": {
 			"Name": "Oddish",
@@ -471,7 +689,12 @@
 			"Defense": 55,
 			"Sp. Atk": 75,
 			"Sp. Def": 65,
-			"Speed": 30
+			"Speed": 30,
+			"Species": "Weed Pok\u00e9mon",
+			"Height": "0.5\u00a0m (1\u203208\u2033)",
+			"Weight": "5.4\u00a0kg (11.9\u00a0lbs)",
+			"Abilities": ["Chlorophyll", "Run Away (hidden ability)"],
+			"Entry": "During the day, it keeps its face buried in the ground. At night, it wanders around sowing its seeds."
 		},
 		"44": {
 			"Name": "Gloom",
@@ -482,7 +705,12 @@
 			"Defense": 70,
 			"Sp. Atk": 85,
 			"Sp. Def": 75,
-			"Speed": 40
+			"Speed": 40,
+			"Species": "Weed Pok\u00e9mon",
+			"Height": "0.8\u00a0m (2\u203207\u2033)",
+			"Weight": "8.6\u00a0kg (19.0\u00a0lbs)",
+			"Abilities": ["Chlorophyll", "Stench (hidden ability)"],
+			"Entry": "The fluid that oozes from its mouth isn\u2019t drool. It is a nectar that is used to attract prey."
 		},
 		"45": {
 			"Name": "Vileplume",
@@ -493,7 +721,12 @@
 			"Defense": 85,
 			"Sp. Atk": 110,
 			"Sp. Def": 90,
-			"Speed": 50
+			"Speed": 50,
+			"Species": "Flower Pok\u00e9mon",
+			"Height": "1.2\u00a0m (3\u203211\u2033)",
+			"Weight": "18.6\u00a0kg (41.0\u00a0lbs)",
+			"Abilities": ["Chlorophyll", "Effect Spore (hidden ability)"],
+			"Entry": "The larger its petals, the more toxic pollen it contains. Its big head is heavy and hard to hold up."
 		},
 		"46": {
 			"Name": "Paras",
@@ -504,7 +737,12 @@
 			"Defense": 55,
 			"Sp. Atk": 45,
 			"Sp. Def": 55,
-			"Speed": 25
+			"Speed": 25,
+			"Species": "Mushroom Pok\u00e9mon",
+			"Height": "0.3\u00a0m (1\u203200\u2033)",
+			"Weight": "5.4\u00a0kg (11.9\u00a0lbs)",
+			"Abilities": ["Effect Spore", "Dry Skin", "Damp (hidden ability)"],
+			"Entry": "Burrows to suck tree roots. The mushrooms on its back grow by drawing nutrients from the bug host."
 		},
 		"47": {
 			"Name": "Parasect",
@@ -515,7 +753,12 @@
 			"Defense": 80,
 			"Sp. Atk": 60,
 			"Sp. Def": 80,
-			"Speed": 30
+			"Speed": 30,
+			"Species": "Mushroom Pok\u00e9mon",
+			"Height": "1.0\u00a0m (3\u203203\u2033)",
+			"Weight": "29.5\u00a0kg (65.0\u00a0lbs)",
+			"Abilities": ["Effect Spore", "Dry Skin", "Damp (hidden ability)"],
+			"Entry": "A host-parasite pair in which the parasite mushroom has taken over the host bug. Prefers damp places."
 		},
 		"48": {
 			"Name": "Venonat",
@@ -526,7 +769,16 @@
 			"Defense": 50,
 			"Sp. Atk": 40,
 			"Sp. Def": 55,
-			"Speed": 45
+			"Speed": 45,
+			"Species": "Insect Pok\u00e9mon",
+			"Height": "1.0\u00a0m (3\u203203\u2033)",
+			"Weight": "30.0\u00a0kg (66.1\u00a0lbs)",
+			"Abilities": [
+				"Compound Eyes",
+				"Tinted Lens",
+				"Run Away (hidden ability)"
+			],
+			"Entry": "Lives in the shadows of tall trees where it eats insects. It is attracted by light at night."
 		},
 		"49": {
 			"Name": "Venomoth",
@@ -537,7 +789,16 @@
 			"Defense": 60,
 			"Sp. Atk": 90,
 			"Sp. Def": 75,
-			"Speed": 90
+			"Speed": 90,
+			"Species": "Poison Moth Pok\u00e9mon",
+			"Height": "1.5\u00a0m (4\u203211\u2033)",
+			"Weight": "12.5\u00a0kg (27.6\u00a0lbs)",
+			"Abilities": [
+				"Shield Dust",
+				"Tinted Lens",
+				"Wonder Skin (hidden ability)"
+			],
+			"Entry": "The dust-like scales covering its wings are color coded to indicate the kinds of poison it has."
 		},
 		"50": {
 			"Name": "Diglett",
@@ -548,7 +809,12 @@
 			"Defense": 25,
 			"Sp. Atk": 35,
 			"Sp. Def": 45,
-			"Speed": 95
+			"Speed": 95,
+			"Species": "Mole Pok\u00e9mon",
+			"Height": "0.2\u00a0m (0\u203208\u2033)",
+			"Weight": "0.8\u00a0kg (1.8\u00a0lbs)",
+			"Abilities": ["Sand Veil", "Arena Trap", "Sand Force (hidden ability)"],
+			"Entry": "Lives about one yard underground where it feeds on plant roots. It sometimes appears above ground."
 		},
 		"51": {
 			"Name": "Dugtrio",
@@ -559,7 +825,12 @@
 			"Defense": 50,
 			"Sp. Atk": 50,
 			"Sp. Def": 70,
-			"Speed": 120
+			"Speed": 120,
+			"Species": "Mole Pok\u00e9mon",
+			"Height": "0.7\u00a0m (2\u203204\u2033)",
+			"Weight": "33.3\u00a0kg (73.4\u00a0lbs)",
+			"Abilities": ["Sand Veil", "Arena Trap", "Sand Force (hidden ability)"],
+			"Entry": "A team of DIGLETT triplets. It triggers huge earthquakes by burrowing 60 miles underground."
 		},
 		"52": {
 			"Name": "Meowth",
@@ -570,7 +841,12 @@
 			"Defense": 35,
 			"Sp. Atk": 40,
 			"Sp. Def": 40,
-			"Speed": 90
+			"Speed": 90,
+			"Species": "Scratch Cat Pok\u00e9mon",
+			"Height": "0.4\u00a0m (1\u203204\u2033)",
+			"Weight": "4.2\u00a0kg (9.3\u00a0lbs)",
+			"Abilities": ["Pickup", "Technician", "Unnerve (hidden ability)"],
+			"Entry": "Adores circular objects. Wanders the streets on a nightly basis to look for dropped loose change."
 		},
 		"53": {
 			"Name": "Persian",
@@ -581,7 +857,12 @@
 			"Defense": 60,
 			"Sp. Atk": 65,
 			"Sp. Def": 65,
-			"Speed": 115
+			"Speed": 115,
+			"Species": "Classy Cat Pok\u00e9mon",
+			"Height": "1.0\u00a0m (3\u203203\u2033)",
+			"Weight": "32.0\u00a0kg (70.5\u00a0lbs)",
+			"Abilities": ["Limber", "Technician", "Unnerve (hidden ability)"],
+			"Entry": "Although its fur has many admirers, it is tough to raise as a pet because of its fickle meanness."
 		},
 		"54": {
 			"Name": "Psyduck",
@@ -592,7 +873,12 @@
 			"Defense": 48,
 			"Sp. Atk": 65,
 			"Sp. Def": 50,
-			"Speed": 55
+			"Speed": 55,
+			"Species": "Duck Pok\u00e9mon",
+			"Height": "0.8\u00a0m (2\u203207\u2033)",
+			"Weight": "19.6\u00a0kg (43.2\u00a0lbs)",
+			"Abilities": ["Damp", "Cloud Nine", "Swift Swim (hidden ability)"],
+			"Entry": "While lulling its enemies with its vacant look, this wily POK\u00e9MON will use psychokinetic powers."
 		},
 		"55": {
 			"Name": "Golduck",
@@ -603,7 +889,12 @@
 			"Defense": 78,
 			"Sp. Atk": 95,
 			"Sp. Def": 80,
-			"Speed": 85
+			"Speed": 85,
+			"Species": "Duck Pok\u00e9mon",
+			"Height": "1.7\u00a0m (5\u203207\u2033)",
+			"Weight": "76.6\u00a0kg (168.9\u00a0lbs)",
+			"Abilities": ["Damp", "Cloud Nine", "Swift Swim (hidden ability)"],
+			"Entry": "Often seen swimming elegantly by lake shores. It is often mistaken for the Japanese monster, Kappa."
 		},
 		"56": {
 			"Name": "Mankey",
@@ -614,7 +905,12 @@
 			"Defense": 35,
 			"Sp. Atk": 35,
 			"Sp. Def": 45,
-			"Speed": 70
+			"Speed": 70,
+			"Species": "Pig Monkey Pok\u00e9mon",
+			"Height": "0.5\u00a0m (1\u203208\u2033)",
+			"Weight": "28.0\u00a0kg (61.7\u00a0lbs)",
+			"Abilities": ["Vital Spirit", "Anger Point", "Defiant (hidden ability)"],
+			"Entry": "Extremely quick to anger. It could be docile one moment then thrashing away the next instant."
 		},
 		"57": {
 			"Name": "Primeape",
@@ -625,7 +921,12 @@
 			"Defense": 60,
 			"Sp. Atk": 60,
 			"Sp. Def": 70,
-			"Speed": 95
+			"Speed": 95,
+			"Species": "Pig Monkey Pok\u00e9mon",
+			"Height": "1.0\u00a0m (3\u203203\u2033)",
+			"Weight": "32.0\u00a0kg (70.5\u00a0lbs)",
+			"Abilities": ["Vital Spirit", "Anger Point", "Defiant (hidden ability)"],
+			"Entry": "Always furious and tenacious to boot. It will not abandon chasing its quarry until it is caught."
 		},
 		"58": {
 			"Name": "Growlithe",
@@ -636,7 +937,12 @@
 			"Defense": 45,
 			"Sp. Atk": 70,
 			"Sp. Def": 50,
-			"Speed": 60
+			"Speed": 60,
+			"Species": "Puppy Pok\u00e9mon",
+			"Height": "0.7\u00a0m (2\u203204\u2033)",
+			"Weight": "19.0\u00a0kg (41.9\u00a0lbs)",
+			"Abilities": ["Intimidate", "Flash Fire", "Justified (hidden ability)"],
+			"Entry": "Very protective of its territory. It will bark and bite to repel intruders from its space."
 		},
 		"59": {
 			"Name": "Arcanine",
@@ -647,7 +953,12 @@
 			"Defense": 80,
 			"Sp. Atk": 100,
 			"Sp. Def": 80,
-			"Speed": 95
+			"Speed": 95,
+			"Species": "Legendary Pok\u00e9mon",
+			"Height": "1.9\u00a0m (6\u203203\u2033)",
+			"Weight": "155.0\u00a0kg (341.7\u00a0lbs)",
+			"Abilities": ["Intimidate", "Flash Fire", "Justified (hidden ability)"],
+			"Entry": "A POK\u00e9MON that has been admired since the past for its beauty. It runs agilely as if on wings."
 		},
 		"60": {
 			"Name": "Poliwag",
@@ -658,7 +969,12 @@
 			"Defense": 40,
 			"Sp. Atk": 40,
 			"Sp. Def": 40,
-			"Speed": 90
+			"Speed": 90,
+			"Species": "Tadpole Pok\u00e9mon",
+			"Height": "0.6\u00a0m (2\u203200\u2033)",
+			"Weight": "12.4\u00a0kg (27.3\u00a0lbs)",
+			"Abilities": ["Water Absorb", "Damp", "Swift Swim (hidden ability)"],
+			"Entry": "Its newly grown legs prevent it from running. It appears to prefer swimming than trying to stand."
 		},
 		"61": {
 			"Name": "Poliwhirl",
@@ -669,7 +985,12 @@
 			"Defense": 65,
 			"Sp. Atk": 50,
 			"Sp. Def": 50,
-			"Speed": 90
+			"Speed": 90,
+			"Species": "Tadpole Pok\u00e9mon",
+			"Height": "1.0\u00a0m (3\u203203\u2033)",
+			"Weight": "20.0\u00a0kg (44.1\u00a0lbs)",
+			"Abilities": ["Water Absorb", "Damp", "Swift Swim (hidden ability)"],
+			"Entry": "Capable of living in or out of water. When out of water, it sweats to keep its body slimy."
 		},
 		"62": {
 			"Name": "Poliwrath",
@@ -680,7 +1001,12 @@
 			"Defense": 95,
 			"Sp. Atk": 70,
 			"Sp. Def": 90,
-			"Speed": 70
+			"Speed": 70,
+			"Species": "Tadpole Pok\u00e9mon",
+			"Height": "1.3\u00a0m (4\u203203\u2033)",
+			"Weight": "54.0\u00a0kg (119.0\u00a0lbs)",
+			"Abilities": ["Water Absorb", "Damp", "Swift Swim (hidden ability)"],
+			"Entry": "An adept swimmer at both the front crawl and breast stroke. Easily overtakes the best human swimmers."
 		},
 		"63": {
 			"Name": "Abra",
@@ -691,7 +1017,16 @@
 			"Defense": 15,
 			"Sp. Atk": 105,
 			"Sp. Def": 55,
-			"Speed": 90
+			"Speed": 90,
+			"Species": "Psi Pok\u00e9mon",
+			"Height": "0.9\u00a0m (2\u203211\u2033)",
+			"Weight": "19.5\u00a0kg (43.0\u00a0lbs)",
+			"Abilities": [
+				"Synchronize",
+				"Inner Focus",
+				"Magic Guard (hidden ability)"
+			],
+			"Entry": "Using its ability to read minds, it will identify impending danger and TELEPORT to safety."
 		},
 		"64": {
 			"Name": "Kadabra",
@@ -702,7 +1037,16 @@
 			"Defense": 30,
 			"Sp. Atk": 120,
 			"Sp. Def": 70,
-			"Speed": 105
+			"Speed": 105,
+			"Species": "Psi Pok\u00e9mon",
+			"Height": "1.3\u00a0m (4\u203203\u2033)",
+			"Weight": "56.5\u00a0kg (124.6\u00a0lbs)",
+			"Abilities": [
+				"Synchronize",
+				"Inner Focus",
+				"Magic Guard (hidden ability)"
+			],
+			"Entry": "It emits special alpha waves from its body that induce headaches just by being close by."
 		},
 		"65": {
 			"Name": "Alakazam",
@@ -713,7 +1057,16 @@
 			"Defense": 45,
 			"Sp. Atk": 135,
 			"Sp. Def": 95,
-			"Speed": 120
+			"Speed": 120,
+			"Species": "Psi Pok\u00e9mon",
+			"Height": "1.5\u00a0m (4\u203211\u2033)",
+			"Weight": "48.0\u00a0kg (105.8\u00a0lbs)",
+			"Abilities": [
+				"Synchronize",
+				"Inner Focus",
+				"Magic Guard (hidden ability)"
+			],
+			"Entry": "Its brain can outperform a supercomputer. Its intelligence quotient is said to be 5,000."
 		},
 		"66": {
 			"Name": "Machop",
@@ -724,7 +1077,12 @@
 			"Defense": 50,
 			"Sp. Atk": 35,
 			"Sp. Def": 35,
-			"Speed": 35
+			"Speed": 35,
+			"Species": "Superpower Pok\u00e9mon",
+			"Height": "0.8\u00a0m (2\u203207\u2033)",
+			"Weight": "19.5\u00a0kg (43.0\u00a0lbs)",
+			"Abilities": ["Guts", "No Guard", "Steadfast (hidden ability)"],
+			"Entry": "Loves to build its muscles. It trains in all styles of martial arts to become even stronger."
 		},
 		"67": {
 			"Name": "Machoke",
@@ -735,7 +1093,12 @@
 			"Defense": 70,
 			"Sp. Atk": 50,
 			"Sp. Def": 60,
-			"Speed": 45
+			"Speed": 45,
+			"Species": "Superpower Pok\u00e9mon",
+			"Height": "1.5\u00a0m (4\u203211\u2033)",
+			"Weight": "70.5\u00a0kg (155.4\u00a0lbs)",
+			"Abilities": ["Guts", "No Guard", "Steadfast (hidden ability)"],
+			"Entry": "Its muscular body is so powerful, it must wear a power save belt to be able to regulate its motions."
 		},
 		"68": {
 			"Name": "Machamp",
@@ -746,7 +1109,12 @@
 			"Defense": 80,
 			"Sp. Atk": 65,
 			"Sp. Def": 85,
-			"Speed": 55
+			"Speed": 55,
+			"Species": "Superpower Pok\u00e9mon",
+			"Height": "1.6\u00a0m (5\u203203\u2033)",
+			"Weight": "130.0\u00a0kg (286.6\u00a0lbs)",
+			"Abilities": ["Guts", "No Guard", "Steadfast (hidden ability)"],
+			"Entry": "Using its heavy muscles, it throws powerful punches that can send the victim clear over the horizon."
 		},
 		"69": {
 			"Name": "Bellsprout",
@@ -757,7 +1125,12 @@
 			"Defense": 35,
 			"Sp. Atk": 70,
 			"Sp. Def": 30,
-			"Speed": 40
+			"Speed": 40,
+			"Species": "Flower Pok\u00e9mon",
+			"Height": "0.7\u00a0m (2\u203204\u2033)",
+			"Weight": "4.0\u00a0kg (8.8\u00a0lbs)",
+			"Abilities": ["Chlorophyll", "Gluttony (hidden ability)"],
+			"Entry": "A carnivorous POK\u00e9MON that traps and eats bugs. It uses its root feet to soak up needed moisture."
 		},
 		"70": {
 			"Name": "Weepinbell",
@@ -768,7 +1141,12 @@
 			"Defense": 50,
 			"Sp. Atk": 85,
 			"Sp. Def": 45,
-			"Speed": 55
+			"Speed": 55,
+			"Species": "Flycatcher Pok\u00e9mon",
+			"Height": "1.0\u00a0m (3\u203203\u2033)",
+			"Weight": "6.4\u00a0kg (14.1\u00a0lbs)",
+			"Abilities": ["Chlorophyll", "Gluttony (hidden ability)"],
+			"Entry": "It spits out POISONPOWDER to immobilize the enemy and then finishes it with a spray of ACID."
 		},
 		"71": {
 			"Name": "Victreebel",
@@ -779,7 +1157,12 @@
 			"Defense": 65,
 			"Sp. Atk": 100,
 			"Sp. Def": 70,
-			"Speed": 70
+			"Speed": 70,
+			"Species": "Flycatcher Pok\u00e9mon",
+			"Height": "1.7\u00a0m (5\u203207\u2033)",
+			"Weight": "15.5\u00a0kg (34.2\u00a0lbs)",
+			"Abilities": ["Chlorophyll", "Gluttony (hidden ability)"],
+			"Entry": "Said to live in huge colonies deep in jungles, although no one has ever returned from there."
 		},
 		"72": {
 			"Name": "Tentacool",
@@ -790,7 +1173,12 @@
 			"Defense": 35,
 			"Sp. Atk": 50,
 			"Sp. Def": 100,
-			"Speed": 70
+			"Speed": 70,
+			"Species": "Jellyfish Pok\u00e9mon",
+			"Height": "0.9\u00a0m (2\u203211\u2033)",
+			"Weight": "45.5\u00a0kg (100.3\u00a0lbs)",
+			"Abilities": ["Clear Body", "Liquid Ooze", "Rain Dish (hidden ability)"],
+			"Entry": "Drifts in shallow seas. Anglers who hook them by accident are often punished by its stinging acid."
 		},
 		"73": {
 			"Name": "Tentacruel",
@@ -801,7 +1189,12 @@
 			"Defense": 65,
 			"Sp. Atk": 80,
 			"Sp. Def": 120,
-			"Speed": 100
+			"Speed": 100,
+			"Species": "Jellyfish Pok\u00e9mon",
+			"Height": "1.6\u00a0m (5\u203203\u2033)",
+			"Weight": "55.0\u00a0kg (121.3\u00a0lbs)",
+			"Abilities": ["Clear Body", "Liquid Ooze", "Rain Dish (hidden ability)"],
+			"Entry": "The tentacles are normally kept short. On hunts, they are extended to ensnare and immobilize prey."
 		},
 		"74": {
 			"Name": "Geodude",
@@ -812,7 +1205,12 @@
 			"Defense": 100,
 			"Sp. Atk": 30,
 			"Sp. Def": 30,
-			"Speed": 20
+			"Speed": 20,
+			"Species": "Rock Pok\u00e9mon",
+			"Height": "0.4\u00a0m (1\u203204\u2033)",
+			"Weight": "20.0\u00a0kg (44.1\u00a0lbs)",
+			"Abilities": ["Rock Head", "Sturdy", "Sand Veil (hidden ability)"],
+			"Entry": "Found in fields and mountains. Mistaking them for boulders, people often step or trip on them."
 		},
 		"75": {
 			"Name": "Graveler",
@@ -823,7 +1221,12 @@
 			"Defense": 115,
 			"Sp. Atk": 45,
 			"Sp. Def": 45,
-			"Speed": 35
+			"Speed": 35,
+			"Species": "Rock Pok\u00e9mon",
+			"Height": "1.0\u00a0m (3\u203203\u2033)",
+			"Weight": "105.0\u00a0kg (231.5\u00a0lbs)",
+			"Abilities": ["Rock Head", "Sturdy", "Sand Veil (hidden ability)"],
+			"Entry": "Rolls down slopes to move. It rolls over any obstacle without slowing or changing its direction."
 		},
 		"76": {
 			"Name": "Golem",
@@ -834,7 +1237,12 @@
 			"Defense": 130,
 			"Sp. Atk": 55,
 			"Sp. Def": 65,
-			"Speed": 45
+			"Speed": 45,
+			"Species": "Megaton Pok\u00e9mon",
+			"Height": "1.4\u00a0m (4\u203207\u2033)",
+			"Weight": "300.0\u00a0kg (661.4\u00a0lbs)",
+			"Abilities": ["Rock Head", "Sturdy", "Sand Veil (hidden ability)"],
+			"Entry": "Its boulder-like body is extremely hard. It can easily withstand dynamite blasts without damage."
 		},
 		"77": {
 			"Name": "Ponyta",
@@ -845,7 +1253,12 @@
 			"Defense": 55,
 			"Sp. Atk": 65,
 			"Sp. Def": 65,
-			"Speed": 90
+			"Speed": 90,
+			"Species": "Fire Horse Pok\u00e9mon",
+			"Height": "1.0\u00a0m (3\u203203\u2033)",
+			"Weight": "30.0\u00a0kg (66.1\u00a0lbs)",
+			"Abilities": ["Run Away", "Flash Fire", "Flame Body (hidden ability)"],
+			"Entry": "Its hooves are 10 times harder than diamonds. It can trample anything completely flat in little time."
 		},
 		"78": {
 			"Name": "Rapidash",
@@ -856,7 +1269,12 @@
 			"Defense": 70,
 			"Sp. Atk": 80,
 			"Sp. Def": 80,
-			"Speed": 105
+			"Speed": 105,
+			"Species": "Fire Horse Pok\u00e9mon",
+			"Height": "1.7\u00a0m (5\u203207\u2033)",
+			"Weight": "95.0\u00a0kg (209.4\u00a0lbs)",
+			"Abilities": ["Run Away", "Flash Fire", "Flame Body (hidden ability)"],
+			"Entry": "Very competitive, this POK\u00e9MON will chase anything that moves fast in the hopes of racing it."
 		},
 		"79": {
 			"Name": "Slowpoke",
@@ -867,7 +1285,12 @@
 			"Defense": 65,
 			"Sp. Atk": 40,
 			"Sp. Def": 40,
-			"Speed": 15
+			"Speed": 15,
+			"Species": "Dopey Pok\u00e9mon",
+			"Height": "1.2\u00a0m (3\u203211\u2033)",
+			"Weight": "36.0\u00a0kg (79.4\u00a0lbs)",
+			"Abilities": ["Oblivious", "Own Tempo", "Regenerator (hidden ability)"],
+			"Entry": "Incredibly slow and dopey. It takes 5 seconds for it to feel pain when under attack."
 		},
 		"80": {
 			"Name": "Slowbro",
@@ -878,7 +1301,12 @@
 			"Defense": 110,
 			"Sp. Atk": 100,
 			"Sp. Def": 80,
-			"Speed": 30
+			"Speed": 30,
+			"Species": "Hermit Crab Pok\u00e9mon",
+			"Height": "1.6\u00a0m (5\u203203\u2033)",
+			"Weight": "78.5\u00a0kg (173.1\u00a0lbs)",
+			"Abilities": ["Oblivious", "Own Tempo", "Regenerator (hidden ability)"],
+			"Entry": "The SHELLDER that is latched onto SLOWPOKE\u2019s tail is said to feed on the host\u2019s left over scraps."
 		},
 		"81": {
 			"Name": "Magnemite",
@@ -889,7 +1317,12 @@
 			"Defense": 70,
 			"Sp. Atk": 95,
 			"Sp. Def": 55,
-			"Speed": 45
+			"Speed": 45,
+			"Species": "Magnet Pok\u00e9mon",
+			"Height": "0.3\u00a0m (1\u203200\u2033)",
+			"Weight": "6.0\u00a0kg (13.2\u00a0lbs)",
+			"Abilities": ["Magnet Pull", "Sturdy", "Analytic (hidden ability)"],
+			"Entry": "Uses anti-gravity to stay suspended. Appears without warning and uses THUNDER WAVE and similar moves."
 		},
 		"82": {
 			"Name": "Magneton",
@@ -900,7 +1333,12 @@
 			"Defense": 95,
 			"Sp. Atk": 120,
 			"Sp. Def": 70,
-			"Speed": 70
+			"Speed": 70,
+			"Species": "Magnet Pok\u00e9mon",
+			"Height": "1.0\u00a0m (3\u203203\u2033)",
+			"Weight": "60.0\u00a0kg (132.3\u00a0lbs)",
+			"Abilities": ["Magnet Pull", "Sturdy", "Analytic (hidden ability)"],
+			"Entry": "Formed by several MAGNEMITEs linked together. They frequently appear when sunspots flare up."
 		},
 		"83": {
 			"Name": "Farfetch'd",
@@ -911,7 +1349,12 @@
 			"Defense": 55,
 			"Sp. Atk": 58,
 			"Sp. Def": 62,
-			"Speed": 60
+			"Speed": 60,
+			"Species": "Wild Duck Pok\u00e9mon",
+			"Height": "0.8\u00a0m (2\u203207\u2033)",
+			"Weight": "15.0\u00a0kg (33.1\u00a0lbs)",
+			"Abilities": ["Keen Eye", " Inner Focus", "Defiant (hidden ability)"],
+			"Entry": "The sprig of green onions it holds is its weapon. It is used much like a metal sword."
 		},
 		"84": {
 			"Name": "Doduo",
@@ -922,7 +1365,12 @@
 			"Defense": 45,
 			"Sp. Atk": 35,
 			"Sp. Def": 35,
-			"Speed": 75
+			"Speed": 75,
+			"Species": "Twin Bird Pok\u00e9mon",
+			"Height": "1.4\u00a0m (4\u203207\u2033)",
+			"Weight": "39.2\u00a0kg (86.4\u00a0lbs)",
+			"Abilities": ["Run Away", "Early Bird", "Tangled Feet (hidden ability)"],
+			"Entry": "A bird that makes up for its poor flying with its fast foot speed. Leaves giant footprints."
 		},
 		"85": {
 			"Name": "Dodrio",
@@ -933,7 +1381,12 @@
 			"Defense": 70,
 			"Sp. Atk": 60,
 			"Sp. Def": 60,
-			"Speed": 110
+			"Speed": 110,
+			"Species": "Triple Bird Pok\u00e9mon",
+			"Height": "1.8\u00a0m (5\u203211\u2033)",
+			"Weight": "85.2\u00a0kg (187.8\u00a0lbs)",
+			"Abilities": ["Run Away", "Early Bird", "Tangled Feet (hidden ability)"],
+			"Entry": "Uses its three brains to execute complex plans. While two heads sleep, one head stays awake."
 		},
 		"86": {
 			"Name": "Seel",
@@ -944,7 +1397,12 @@
 			"Defense": 55,
 			"Sp. Atk": 45,
 			"Sp. Def": 70,
-			"Speed": 45
+			"Speed": 45,
+			"Species": "Sea Lion Pok\u00e9mon",
+			"Height": "1.1\u00a0m (3\u203207\u2033)",
+			"Weight": "90.0\u00a0kg (198.4\u00a0lbs)",
+			"Abilities": ["Thick Fat", "Hydration", "Ice Body (hidden ability)"],
+			"Entry": "The protruding horn on its head is very hard. It is used for bashing through thick ice."
 		},
 		"87": {
 			"Name": "Dewgong",
@@ -955,7 +1413,12 @@
 			"Defense": 80,
 			"Sp. Atk": 70,
 			"Sp. Def": 95,
-			"Speed": 70
+			"Speed": 70,
+			"Species": "Sea Lion Pok\u00e9mon",
+			"Height": "1.7\u00a0m (5\u203207\u2033)",
+			"Weight": "120.0\u00a0kg (264.6\u00a0lbs)",
+			"Abilities": ["Thick Fat", "Hydration", "Ice Body (hidden ability)"],
+			"Entry": "Stores thermal energy in its body. Swims at a steady 8 knots even in intensely cold waters."
 		},
 		"88": {
 			"Name": "Grimer",
@@ -966,7 +1429,12 @@
 			"Defense": 50,
 			"Sp. Atk": 40,
 			"Sp. Def": 50,
-			"Speed": 25
+			"Speed": 25,
+			"Species": "Sludge Pok\u00e9mon",
+			"Height": "0.9\u00a0m (2\u203211\u2033)",
+			"Weight": "30.0\u00a0kg (66.1\u00a0lbs)",
+			"Abilities": ["Stench", "Sticky Hold", "Poison Touch (hidden ability)"],
+			"Entry": "Appears in filthy areas. Thrives by sucking up polluted sludge that is pumped out of factories."
 		},
 		"89": {
 			"Name": "Muk",
@@ -977,7 +1445,12 @@
 			"Defense": 75,
 			"Sp. Atk": 65,
 			"Sp. Def": 100,
-			"Speed": 50
+			"Speed": 50,
+			"Species": "Sludge Pok\u00e9mon",
+			"Height": "1.2\u00a0m (3\u203211\u2033)",
+			"Weight": "30.0\u00a0kg (66.1\u00a0lbs)",
+			"Abilities": ["Stench", "Sticky Hold", "Poison Touch (hidden ability)"],
+			"Entry": "Thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison."
 		},
 		"90": {
 			"Name": "Shellder",
@@ -988,7 +1461,12 @@
 			"Defense": 100,
 			"Sp. Atk": 45,
 			"Sp. Def": 25,
-			"Speed": 40
+			"Speed": 40,
+			"Species": "Bivalve Pok\u00e9mon",
+			"Height": "0.3\u00a0m (1\u203200\u2033)",
+			"Weight": "4.0\u00a0kg (8.8\u00a0lbs)",
+			"Abilities": ["Shell Armor", "Skill Link", "Overcoat (hidden ability)"],
+			"Entry": "Its hard shell repels any kind of attack. It is vulnerable only when its shell is open."
 		},
 		"91": {
 			"Name": "Cloyster",
@@ -999,7 +1477,12 @@
 			"Defense": 180,
 			"Sp. Atk": 85,
 			"Sp. Def": 45,
-			"Speed": 70
+			"Speed": 70,
+			"Species": "Bivalve Pok\u00e9mon",
+			"Height": "1.5\u00a0m (4\u203211\u2033)",
+			"Weight": "132.5\u00a0kg (292.1\u00a0lbs)",
+			"Abilities": ["Shell Armor", "Skill Link", "Overcoat (hidden ability)"],
+			"Entry": "When attacked, it launches its horns in quick volleys. Its innards have never been seen."
 		},
 		"92": {
 			"Name": "Gastly",
@@ -1010,7 +1493,12 @@
 			"Defense": 30,
 			"Sp. Atk": 100,
 			"Sp. Def": 35,
-			"Speed": 80
+			"Speed": 80,
+			"Species": "Gas Pok\u00e9mon",
+			"Height": "1.3\u00a0m (4\u203203\u2033)",
+			"Weight": "0.1\u00a0kg (0.2\u00a0lbs)",
+			"Abilities": ["Levitate"],
+			"Entry": "Almost invisible, this gaseous POK\u00e9MON cloaks the target and puts it to sleep without notice."
 		},
 		"93": {
 			"Name": "Haunter",
@@ -1021,7 +1509,12 @@
 			"Defense": 45,
 			"Sp. Atk": 115,
 			"Sp. Def": 55,
-			"Speed": 95
+			"Speed": 95,
+			"Species": "Gas Pok\u00e9mon",
+			"Height": "1.6\u00a0m (5\u203203\u2033)",
+			"Weight": "0.1\u00a0kg (0.2\u00a0lbs)",
+			"Abilities": ["Levitate"],
+			"Entry": "Because of its ability to slip through block walls, it is said to be from another dimension."
 		},
 		"94": {
 			"Name": "Gengar",
@@ -1032,7 +1525,12 @@
 			"Defense": 60,
 			"Sp. Atk": 130,
 			"Sp. Def": 75,
-			"Speed": 110
+			"Speed": 110,
+			"Species": "Shadow Pok\u00e9mon",
+			"Height": "1.5\u00a0m (4\u203211\u2033)",
+			"Weight": "40.5\u00a0kg (89.3\u00a0lbs)",
+			"Abilities": ["Cursed Body"],
+			"Entry": "Under a full moon, this POK\u00e9MON likes to mimic the shadows of people and laugh at their fright."
 		},
 		"95": {
 			"Name": "Onix",
@@ -1043,7 +1541,12 @@
 			"Defense": 160,
 			"Sp. Atk": 30,
 			"Sp. Def": 45,
-			"Speed": 70
+			"Speed": 70,
+			"Species": "Rock Snake Pok\u00e9mon",
+			"Height": "8.8\u00a0m (28\u203210\u2033)",
+			"Weight": "210.0\u00a0kg (463.0\u00a0lbs)",
+			"Abilities": ["Rock Head", "Sturdy", "Weak Armor (hidden ability)"],
+			"Entry": "As it grows, the stone portions of its body harden to become similar to a diamond, but colored black."
 		},
 		"96": {
 			"Name": "Drowzee",
@@ -1054,7 +1557,12 @@
 			"Defense": 45,
 			"Sp. Atk": 43,
 			"Sp. Def": 90,
-			"Speed": 42
+			"Speed": 42,
+			"Species": "Hypnosis Pok\u00e9mon",
+			"Height": "1.0\u00a0m (3\u203203\u2033)",
+			"Weight": "32.4\u00a0kg (71.4\u00a0lbs)",
+			"Abilities": ["Insomnia", "Forewarn", "Inner Focus (hidden ability)"],
+			"Entry": "Puts enemies to sleep then eats their dreams. Occasionally gets sick from eating bad dreams."
 		},
 		"97": {
 			"Name": "Hypno",
@@ -1065,7 +1573,12 @@
 			"Defense": 70,
 			"Sp. Atk": 73,
 			"Sp. Def": 115,
-			"Speed": 67
+			"Speed": 67,
+			"Species": "Hypnosis Pok\u00e9mon",
+			"Height": "1.6\u00a0m (5\u203203\u2033)",
+			"Weight": "75.6\u00a0kg (166.7\u00a0lbs)",
+			"Abilities": ["Insomnia", "Forewarn", "Inner Focus (hidden ability)"],
+			"Entry": "When it locks eyes with an enemy, it will use a mix of PSI moves such as HYPNOSIS and CONFUSION."
 		},
 		"98": {
 			"Name": "Krabby",
@@ -1076,7 +1589,16 @@
 			"Defense": 90,
 			"Sp. Atk": 25,
 			"Sp. Def": 25,
-			"Speed": 50
+			"Speed": 50,
+			"Species": "River Crab Pok\u00e9mon",
+			"Height": "0.4\u00a0m (1\u203204\u2033)",
+			"Weight": "6.5\u00a0kg (14.3\u00a0lbs)",
+			"Abilities": [
+				"Hyper Cutter",
+				"Shell Armor",
+				"Sheer Force (hidden ability)"
+			],
+			"Entry": "Its pincers are not only powerful weapons, they are used for balance when walking sideways."
 		},
 		"99": {
 			"Name": "Kingler",
@@ -1087,7 +1609,16 @@
 			"Defense": 115,
 			"Sp. Atk": 50,
 			"Sp. Def": 50,
-			"Speed": 75
+			"Speed": 75,
+			"Species": "Pincer Pok\u00e9mon",
+			"Height": "1.3\u00a0m (4\u203203\u2033)",
+			"Weight": "60.0\u00a0kg (132.3\u00a0lbs)",
+			"Abilities": [
+				"Hyper Cutter",
+				"Shell Armor",
+				"Sheer Force (hidden ability)"
+			],
+			"Entry": "The large pincer has 10000 hp of crushing power. However, its huge size makes it unwieldy to use."
 		},
 		"100": {
 			"Name": "Voltorb",
@@ -1098,7 +1629,12 @@
 			"Defense": 50,
 			"Sp. Atk": 55,
 			"Sp. Def": 55,
-			"Speed": 100
+			"Speed": 100,
+			"Species": "Ball Pok\u00e9mon",
+			"Height": "0.5\u00a0m (1\u203208\u2033)",
+			"Weight": "10.4\u00a0kg (22.9\u00a0lbs)",
+			"Abilities": ["Soundproof", "Static", "Aftermath (hidden ability)"],
+			"Entry": "Usually found in power plants. Easily mistaken for a POK\u00e9 BALL, they have zapped many people."
 		},
 		"101": {
 			"Name": "Electrode",
@@ -1109,7 +1645,12 @@
 			"Defense": 70,
 			"Sp. Atk": 80,
 			"Sp. Def": 80,
-			"Speed": 150
+			"Speed": 150,
+			"Species": "Ball Pok\u00e9mon",
+			"Height": "1.2\u00a0m (3\u203211\u2033)",
+			"Weight": "66.6\u00a0kg (146.8\u00a0lbs)",
+			"Abilities": ["Soundproof", "Static", "Aftermath (hidden ability)"],
+			"Entry": "It stores electric energy under very high pressure. It often explodes with little or no provocation."
 		},
 		"102": {
 			"Name": "Exeggcute",
@@ -1120,7 +1661,12 @@
 			"Defense": 80,
 			"Sp. Atk": 60,
 			"Sp. Def": 45,
-			"Speed": 40
+			"Speed": 40,
+			"Species": "Egg Pok\u00e9mon",
+			"Height": "0.4\u00a0m (1\u203204\u2033)",
+			"Weight": "2.5\u00a0kg (5.5\u00a0lbs)",
+			"Abilities": ["Chlorophyll", "Harvest (hidden ability)"],
+			"Entry": "Often mistaken for eggs. When disturbed, they quickly gather and attack in swarms."
 		},
 		"103": {
 			"Name": "Exeggutor",
@@ -1131,7 +1677,12 @@
 			"Defense": 85,
 			"Sp. Atk": 125,
 			"Sp. Def": 75,
-			"Speed": 55
+			"Speed": 55,
+			"Species": "Coconut Pok\u00e9mon",
+			"Height": "2.0\u00a0m (6\u203207\u2033)",
+			"Weight": "120.0\u00a0kg (264.6\u00a0lbs)",
+			"Abilities": ["Chlorophyll", "Harvest (hidden ability)"],
+			"Entry": "Legend has it that on rare occasions, one of its heads will drop off and continue on as an EXEGGCUTE."
 		},
 		"104": {
 			"Name": "Cubone",
@@ -1142,7 +1693,16 @@
 			"Defense": 95,
 			"Sp. Atk": 40,
 			"Sp. Def": 50,
-			"Speed": 35
+			"Speed": 35,
+			"Species": "Lonely Pok\u00e9mon",
+			"Height": "0.4\u00a0m (1\u203204\u2033)",
+			"Weight": "6.5\u00a0kg (14.3\u00a0lbs)",
+			"Abilities": [
+				"Rock Head",
+				"Lightning Rod",
+				"Battle Armor (hidden ability)"
+			],
+			"Entry": "Because it never removes its skull helmet, no one has ever seen this POK\u00e9MON\u2019s real face."
 		},
 		"105": {
 			"Name": "Marowak",
@@ -1153,7 +1713,16 @@
 			"Defense": 110,
 			"Sp. Atk": 50,
 			"Sp. Def": 80,
-			"Speed": 45
+			"Speed": 45,
+			"Species": "Bone Keeper Pok\u00e9mon",
+			"Height": "1.0\u00a0m (3\u203203\u2033)",
+			"Weight": "45.0\u00a0kg (99.2\u00a0lbs)",
+			"Abilities": [
+				"Rock Head",
+				"Lightning Rod",
+				"Battle Armor (hidden ability)"
+			],
+			"Entry": "The bone it holds is its key weapon. It throws the bone skillfully like a boomerang to KO targets."
 		},
 		"106": {
 			"Name": "Hitmonlee",
@@ -1164,7 +1733,12 @@
 			"Defense": 53,
 			"Sp. Atk": 35,
 			"Sp. Def": 110,
-			"Speed": 87
+			"Speed": 87,
+			"Species": "Kicking Pok\u00e9mon",
+			"Height": "1.5\u00a0m (4\u203211\u2033)",
+			"Weight": "49.8\u00a0kg (109.8\u00a0lbs)",
+			"Abilities": ["Limber", "Reckless", "Unburden (hidden ability)"],
+			"Entry": "When in a hurry, its legs lengthen progressively. It runs smoothly with extra long, loping strides."
 		},
 		"107": {
 			"Name": "Hitmonchan",
@@ -1175,7 +1749,12 @@
 			"Defense": 79,
 			"Sp. Atk": 35,
 			"Sp. Def": 110,
-			"Speed": 76
+			"Speed": 76,
+			"Species": "Punching Pok\u00e9mon",
+			"Height": "1.4\u00a0m (4\u203207\u2033)",
+			"Weight": "50.2\u00a0kg (110.7\u00a0lbs)",
+			"Abilities": ["Keen Eye", "Iron Fist", "Inner Focus (hidden ability)"],
+			"Entry": "While apparently doing nothing, it fires punches in lightning fast volleys that are impossible to see."
 		},
 		"108": {
 			"Name": "Lickitung",
@@ -1186,7 +1765,12 @@
 			"Defense": 75,
 			"Sp. Atk": 60,
 			"Sp. Def": 75,
-			"Speed": 30
+			"Speed": 30,
+			"Species": "Licking Pok\u00e9mon",
+			"Height": "1.2\u00a0m (3\u203211\u2033)",
+			"Weight": "65.5\u00a0kg (144.4\u00a0lbs)",
+			"Abilities": ["Own Tempo", "Oblivious", "Cloud Nine (hidden ability)"],
+			"Entry": "Its tongue can be extended like a chameleon\u2019s. It leaves a tingling sensation when it licks enemies."
 		},
 		"109": {
 			"Name": "Koffing",
@@ -1197,7 +1781,12 @@
 			"Defense": 95,
 			"Sp. Atk": 60,
 			"Sp. Def": 45,
-			"Speed": 35
+			"Speed": 35,
+			"Species": "Poison Gas Pok\u00e9mon",
+			"Height": "0.6\u00a0m (2\u203200\u2033)",
+			"Weight": "1.0\u00a0kg (2.2\u00a0lbs)",
+			"Abilities": ["Levitate", "Neutralizing Gas", "Stench (hidden ability)"],
+			"Entry": "Because it stores several kinds of toxic gases in its body, it is prone to exploding without warning."
 		},
 		"110": {
 			"Name": "Weezing",
@@ -1208,7 +1797,12 @@
 			"Defense": 120,
 			"Sp. Atk": 85,
 			"Sp. Def": 70,
-			"Speed": 60
+			"Speed": 60,
+			"Species": "Poison Gas Pok\u00e9mon",
+			"Height": "1.2\u00a0m (3\u203211\u2033)",
+			"Weight": "9.5\u00a0kg (20.9\u00a0lbs)",
+			"Abilities": ["Levitate", "Neutralizing Gas", "Stench (hidden ability)"],
+			"Entry": "Where two kinds of poison gases meet, 2 KOFFINGs can fuse into a WEEZING over many years."
 		},
 		"111": {
 			"Name": "Rhyhorn",
@@ -1219,7 +1813,12 @@
 			"Defense": 95,
 			"Sp. Atk": 30,
 			"Sp. Def": 30,
-			"Speed": 25
+			"Speed": 25,
+			"Species": "Spikes Pok\u00e9mon",
+			"Height": "1.0\u00a0m (3\u203203\u2033)",
+			"Weight": "115.0\u00a0kg (253.5\u00a0lbs)",
+			"Abilities": ["Lightning Rod", "Rock Head", "Reckless (hidden ability)"],
+			"Entry": "Its massive bones are 1000 times harder than human bones. It can easily knock a trailer flying."
 		},
 		"112": {
 			"Name": "Rhydon",
@@ -1230,7 +1829,12 @@
 			"Defense": 120,
 			"Sp. Atk": 45,
 			"Sp. Def": 45,
-			"Speed": 40
+			"Speed": 40,
+			"Species": "Drill Pok\u00e9mon",
+			"Height": "1.9\u00a0m (6\u203203\u2033)",
+			"Weight": "120.0\u00a0kg (264.6\u00a0lbs)",
+			"Abilities": ["Lightning Rod", "Rock Head", "Reckless (hidden ability)"],
+			"Entry": "Protected by an armor-like hide, it is capable of living in molten lava of 3,600 degrees."
 		},
 		"113": {
 			"Name": "Chansey",
@@ -1241,7 +1845,12 @@
 			"Defense": 5,
 			"Sp. Atk": 35,
 			"Sp. Def": 105,
-			"Speed": 50
+			"Speed": 50,
+			"Species": "Egg Pok\u00e9mon",
+			"Height": "1.1\u00a0m (3\u203207\u2033)",
+			"Weight": "34.6\u00a0kg (76.3\u00a0lbs)",
+			"Abilities": ["Natural Cure", "Serene Grace", "Healer (hidden ability)"],
+			"Entry": "A rare and elusive POK\u00e9MON that is said to bring happiness to those who manage to get it."
 		},
 		"114": {
 			"Name": "Tangela",
@@ -1252,7 +1861,16 @@
 			"Defense": 115,
 			"Sp. Atk": 100,
 			"Sp. Def": 40,
-			"Speed": 60
+			"Speed": 60,
+			"Species": "Vine Pok\u00e9mon",
+			"Height": "1.0\u00a0m (3\u203203\u2033)",
+			"Weight": "35.0\u00a0kg (77.2\u00a0lbs)",
+			"Abilities": [
+				"Chlorophyll",
+				"Leaf Guard",
+				"Regenerator (hidden ability)"
+			],
+			"Entry": "The whole body is swathed with wide vines that are similar to seaweed. Its vines shake as it walks."
 		},
 		"115": {
 			"Name": "Kangaskhan",
@@ -1263,7 +1881,12 @@
 			"Defense": 80,
 			"Sp. Atk": 40,
 			"Sp. Def": 80,
-			"Speed": 90
+			"Speed": 90,
+			"Species": "Parent Pok\u00e9mon",
+			"Height": "2.2\u00a0m (7\u203203\u2033)",
+			"Weight": "80.0\u00a0kg (176.4\u00a0lbs)",
+			"Abilities": ["Early Bird", "Scrappy", "Inner Focus (hidden ability)"],
+			"Entry": "The infant rarely ventures out of its mother\u2019s protective pouch until it is 3 years old."
 		},
 		"116": {
 			"Name": "Horsea",
@@ -1274,7 +1897,12 @@
 			"Defense": 70,
 			"Sp. Atk": 70,
 			"Sp. Def": 25,
-			"Speed": 60
+			"Speed": 60,
+			"Species": "Dragon Pok\u00e9mon",
+			"Height": "0.4\u00a0m (1\u203204\u2033)",
+			"Weight": "8.0\u00a0kg (17.6\u00a0lbs)",
+			"Abilities": ["Swift Swim", "Sniper", "Damp (hidden ability)"],
+			"Entry": "Known to shoot down flying bugs with precision blasts of ink from the surface of the water."
 		},
 		"117": {
 			"Name": "Seadra",
@@ -1285,7 +1913,12 @@
 			"Defense": 95,
 			"Sp. Atk": 95,
 			"Sp. Def": 45,
-			"Speed": 85
+			"Speed": 85,
+			"Species": "Dragon Pok\u00e9mon",
+			"Height": "1.2\u00a0m (3\u203211\u2033)",
+			"Weight": "25.0\u00a0kg (55.1\u00a0lbs)",
+			"Abilities": ["Poison Point", "Sniper", "Damp (hidden ability)"],
+			"Entry": "Capable of swimming backwards by rapidly flapping its wing-like pectoral fins and stout tail."
 		},
 		"118": {
 			"Name": "Goldeen",
@@ -1296,7 +1929,16 @@
 			"Defense": 60,
 			"Sp. Atk": 35,
 			"Sp. Def": 50,
-			"Speed": 63
+			"Speed": 63,
+			"Species": "Goldfish Pok\u00e9mon",
+			"Height": "0.6\u00a0m (2\u203200\u2033)",
+			"Weight": "15.0\u00a0kg (33.1\u00a0lbs)",
+			"Abilities": [
+				"Swift Swim",
+				"Water Veil",
+				"Lightning Rod (hidden ability)"
+			],
+			"Entry": "Its tail fin billows like an elegant ballroom dress, giving it the nickname of the Water Queen."
 		},
 		"119": {
 			"Name": "Seaking",
@@ -1307,7 +1949,16 @@
 			"Defense": 65,
 			"Sp. Atk": 65,
 			"Sp. Def": 80,
-			"Speed": 68
+			"Speed": 68,
+			"Species": "Goldfish Pok\u00e9mon",
+			"Height": "1.3\u00a0m (4\u203203\u2033)",
+			"Weight": "39.0\u00a0kg (86.0\u00a0lbs)",
+			"Abilities": [
+				"Swift Swim",
+				"Water Veil",
+				"Lightning Rod (hidden ability)"
+			],
+			"Entry": "In the autumn spawning season, they can be seen swimming powerfully up rivers and creeks."
 		},
 		"120": {
 			"Name": "Staryu",
@@ -1318,7 +1969,12 @@
 			"Defense": 55,
 			"Sp. Atk": 70,
 			"Sp. Def": 55,
-			"Speed": 85
+			"Speed": 85,
+			"Species": "Star Shape Pok\u00e9mon",
+			"Height": "0.8\u00a0m (2\u203207\u2033)",
+			"Weight": "34.5\u00a0kg (76.1\u00a0lbs)",
+			"Abilities": ["Illuminate", "Natural Cure", "Analytic (hidden ability)"],
+			"Entry": "An enigmatic POK\u00e9MON that can effortlessly regenerate any appendage it loses in battle."
 		},
 		"121": {
 			"Name": "Starmie",
@@ -1329,7 +1985,12 @@
 			"Defense": 85,
 			"Sp. Atk": 100,
 			"Sp. Def": 85,
-			"Speed": 115
+			"Speed": 115,
+			"Species": "Mysterious Pok\u00e9mon",
+			"Height": "1.1\u00a0m (3\u203207\u2033)",
+			"Weight": "80.0\u00a0kg (176.4\u00a0lbs)",
+			"Abilities": ["Illuminate", "Natural Cure", "Analytic (hidden ability)"],
+			"Entry": "Its central core glows with the seven colors of the rainbow. Some people value the core as a gem."
 		},
 		"122": {
 			"Name": "Mr. Mime",
@@ -1340,7 +2001,12 @@
 			"Defense": 65,
 			"Sp. Atk": 100,
 			"Sp. Def": 120,
-			"Speed": 90
+			"Speed": 90,
+			"Species": "Barrier Pok\u00e9mon",
+			"Height": "1.3\u00a0m (4\u203203\u2033)",
+			"Weight": "54.5\u00a0kg (120.2\u00a0lbs)",
+			"Abilities": ["Soundproof", "Filter", "Technician (hidden ability)"],
+			"Entry": "If interrupted while it is miming, it will slap around the offender with its broad hands."
 		},
 		"123": {
 			"Name": "Scyther",
@@ -1351,7 +2017,12 @@
 			"Defense": 80,
 			"Sp. Atk": 55,
 			"Sp. Def": 80,
-			"Speed": 105
+			"Speed": 105,
+			"Species": "Mantis Pok\u00e9mon",
+			"Height": "1.5\u00a0m (4\u203211\u2033)",
+			"Weight": "56.0\u00a0kg (123.5\u00a0lbs)",
+			"Abilities": ["Swarm", "Technician", "Steadfast (hidden ability)"],
+			"Entry": "With ninja-like agility and speed, it can create the illusion that there is more than one."
 		},
 		"124": {
 			"Name": "Jynx",
@@ -1362,7 +2033,12 @@
 			"Defense": 35,
 			"Sp. Atk": 115,
 			"Sp. Def": 95,
-			"Speed": 95
+			"Speed": 95,
+			"Species": "Human Shape Pok\u00e9mon",
+			"Height": "1.4\u00a0m (4\u203207\u2033)",
+			"Weight": "40.6\u00a0kg (89.5\u00a0lbs)",
+			"Abilities": ["Oblivious", "Forewarn", "Dry Skin (hidden ability)"],
+			"Entry": "It seductively wiggles its hips as it walks. It can cause people to dance in unison with it."
 		},
 		"125": {
 			"Name": "Electabuzz",
@@ -1373,7 +2049,12 @@
 			"Defense": 57,
 			"Sp. Atk": 95,
 			"Sp. Def": 85,
-			"Speed": 105
+			"Speed": 105,
+			"Species": "Electric Pok\u00e9mon",
+			"Height": "1.1\u00a0m (3\u203207\u2033)",
+			"Weight": "30.0\u00a0kg (66.1\u00a0lbs)",
+			"Abilities": ["Static", "Vital Spirit (hidden ability)"],
+			"Entry": "Normally found near power plants, they can wander away and cause major blackouts in cities."
 		},
 		"126": {
 			"Name": "Magmar",
@@ -1384,7 +2065,12 @@
 			"Defense": 57,
 			"Sp. Atk": 100,
 			"Sp. Def": 85,
-			"Speed": 93
+			"Speed": 93,
+			"Species": "Spitfire Pok\u00e9mon",
+			"Height": "1.3\u00a0m (4\u203203\u2033)",
+			"Weight": "44.5\u00a0kg (98.1\u00a0lbs)",
+			"Abilities": ["Flame Body", "Vital Spirit (hidden ability)"],
+			"Entry": "Its body always burns with an orange glow that enables it to hide perfectly among flames."
 		},
 		"127": {
 			"Name": "Pinsir",
@@ -1395,7 +2081,12 @@
 			"Defense": 100,
 			"Sp. Atk": 55,
 			"Sp. Def": 70,
-			"Speed": 85
+			"Speed": 85,
+			"Species": "Stag Beetle Pok\u00e9mon",
+			"Height": "1.5\u00a0m (4\u203211\u2033)",
+			"Weight": "55.0\u00a0kg (121.3\u00a0lbs)",
+			"Abilities": ["Hyper Cutter", "Mold Breaker", "Moxie (hidden ability)"],
+			"Entry": "If it fails to crush the victim in its pincers, it will swing it around and toss it hard."
 		},
 		"128": {
 			"Name": "Tauros",
@@ -1406,7 +2097,16 @@
 			"Defense": 95,
 			"Sp. Atk": 40,
 			"Sp. Def": 70,
-			"Speed": 110
+			"Speed": 110,
+			"Species": "Wild Bull Pok\u00e9mon",
+			"Height": "1.4\u00a0m (4\u203207\u2033)",
+			"Weight": "88.4\u00a0kg (194.9\u00a0lbs)",
+			"Abilities": [
+				"Intimidate",
+				"Anger Point",
+				"Sheer Force (hidden ability)"
+			],
+			"Entry": "When it targets an enemy, it charges furiously while whipping its body with its long tails."
 		},
 		"129": {
 			"Name": "Magikarp",
@@ -1417,7 +2117,12 @@
 			"Defense": 55,
 			"Sp. Atk": 15,
 			"Sp. Def": 20,
-			"Speed": 80
+			"Speed": 80,
+			"Species": "Fish Pok\u00e9mon",
+			"Height": "0.9\u00a0m (2\u203211\u2033)",
+			"Weight": "10.0\u00a0kg (22.0\u00a0lbs)",
+			"Abilities": ["Swift Swim", "Rattled (hidden ability)"],
+			"Entry": "In the distant past, it was somewhat stronger than the horribly weak descendants that exist today."
 		},
 		"130": {
 			"Name": "Gyarados",
@@ -1428,7 +2133,12 @@
 			"Defense": 79,
 			"Sp. Atk": 60,
 			"Sp. Def": 100,
-			"Speed": 81
+			"Speed": 81,
+			"Species": "Atrocious Pok\u00e9mon",
+			"Height": "6.5\u00a0m (21\u203204\u2033)",
+			"Weight": "235.0\u00a0kg (518.1\u00a0lbs)",
+			"Abilities": ["Intimidate", "Moxie (hidden ability)"],
+			"Entry": "Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage."
 		},
 		"131": {
 			"Name": "Lapras",
@@ -1439,7 +2149,16 @@
 			"Defense": 80,
 			"Sp. Atk": 85,
 			"Sp. Def": 95,
-			"Speed": 60
+			"Speed": 60,
+			"Species": "Transport Pok\u00e9mon",
+			"Height": "2.5\u00a0m (8\u203202\u2033)",
+			"Weight": "220.0\u00a0kg (485.0\u00a0lbs)",
+			"Abilities": [
+				"Water Absorb",
+				"Shell Armor",
+				"Hydration (hidden ability)"
+			],
+			"Entry": "A POK\u00e9MON that has been overhunted almost to extinction. It can ferry people across the water."
 		},
 		"132": {
 			"Name": "Ditto",
@@ -1450,7 +2169,12 @@
 			"Defense": 48,
 			"Sp. Atk": 48,
 			"Sp. Def": 48,
-			"Speed": 48
+			"Speed": 48,
+			"Species": "Transform Pok\u00e9mon",
+			"Height": "0.3\u00a0m (1\u203200\u2033)",
+			"Weight": "4.0\u00a0kg (8.8\u00a0lbs)",
+			"Abilities": ["Limber", "Imposter (hidden ability)"],
+			"Entry": "Capable of copying an enemy\u2019s genetic code to instantly transform itself into a duplicate of the enemy."
 		},
 		"133": {
 			"Name": "Eevee",
@@ -1461,7 +2185,16 @@
 			"Defense": 50,
 			"Sp. Atk": 45,
 			"Sp. Def": 65,
-			"Speed": 55
+			"Speed": 55,
+			"Species": "Evolution Pok\u00e9mon",
+			"Height": "0.3\u00a0m (1\u203200\u2033)",
+			"Weight": "6.5\u00a0kg (14.3\u00a0lbs)",
+			"Abilities": [
+				"Run Away",
+				"Adaptability",
+				"Anticipation (hidden ability)"
+			],
+			"Entry": "Its genetic code is irregular. It may mutate if it is exposed to radiation from element STONEs."
 		},
 		"134": {
 			"Name": "Vaporeon",
@@ -1472,7 +2205,12 @@
 			"Defense": 60,
 			"Sp. Atk": 110,
 			"Sp. Def": 95,
-			"Speed": 65
+			"Speed": 65,
+			"Species": "Bubble Jet Pok\u00e9mon",
+			"Height": "1.0\u00a0m (3\u203203\u2033)",
+			"Weight": "29.0\u00a0kg (63.9\u00a0lbs)",
+			"Abilities": ["Water Absorb", "Hydration (hidden ability)"],
+			"Entry": "Lives close to water. Its long tail is ridged with a fin which is often mistaken for a mermaid\u2019s."
 		},
 		"135": {
 			"Name": "Jolteon",
@@ -1483,7 +2221,12 @@
 			"Defense": 60,
 			"Sp. Atk": 110,
 			"Sp. Def": 95,
-			"Speed": 130
+			"Speed": 130,
+			"Species": "Lightning Pok\u00e9mon",
+			"Height": "0.8\u00a0m (2\u203207\u2033)",
+			"Weight": "24.5\u00a0kg (54.0\u00a0lbs)",
+			"Abilities": ["Volt Absorb", "Quick Feet (hidden ability)"],
+			"Entry": "It accumulates negative ions in the atmosphere to blast out 10000-volt lightning bolts."
 		},
 		"136": {
 			"Name": "Flareon",
@@ -1494,7 +2237,12 @@
 			"Defense": 60,
 			"Sp. Atk": 95,
 			"Sp. Def": 110,
-			"Speed": 65
+			"Speed": 65,
+			"Species": "Flame Pok\u00e9mon",
+			"Height": "0.9\u00a0m (2\u203211\u2033)",
+			"Weight": "25.0\u00a0kg (55.1\u00a0lbs)",
+			"Abilities": ["Flash Fire", "Guts (hidden ability)"],
+			"Entry": "When storing thermal energy in its body, its temperature could soar to over 1600 degrees."
 		},
 		"137": {
 			"Name": "Porygon",
@@ -1505,7 +2253,12 @@
 			"Defense": 70,
 			"Sp. Atk": 85,
 			"Sp. Def": 75,
-			"Speed": 40
+			"Speed": 40,
+			"Species": "Virtual Pok\u00e9mon",
+			"Height": "0.8\u00a0m (2\u203207\u2033)",
+			"Weight": "36.5\u00a0kg (80.5\u00a0lbs)",
+			"Abilities": ["Trace", "Download", "Analytic (hidden ability)"],
+			"Entry": "A POK\u00e9MON that consists entirely of programming code. Capable of moving freely in cyberspace."
 		},
 		"138": {
 			"Name": "Omanyte",
@@ -1516,7 +2269,12 @@
 			"Defense": 100,
 			"Sp. Atk": 90,
 			"Sp. Def": 55,
-			"Speed": 35
+			"Speed": 35,
+			"Species": "Spiral Pok\u00e9mon",
+			"Height": "0.4\u00a0m (1\u203204\u2033)",
+			"Weight": "7.5\u00a0kg (16.5\u00a0lbs)",
+			"Abilities": ["Swift Swim", "Shell Armor", "Weak Armor (hidden ability)"],
+			"Entry": "Although long extinct, in rare cases, it can be genetically resurrected from fossils."
 		},
 		"139": {
 			"Name": "Omastar",
@@ -1527,7 +2285,12 @@
 			"Defense": 125,
 			"Sp. Atk": 115,
 			"Sp. Def": 70,
-			"Speed": 55
+			"Speed": 55,
+			"Species": "Spiral Pok\u00e9mon",
+			"Height": "1.0\u00a0m (3\u203203\u2033)",
+			"Weight": "35.0\u00a0kg (77.2\u00a0lbs)",
+			"Abilities": ["Swift Swim", "Shell Armor", "Weak Armor (hidden ability)"],
+			"Entry": "A prehistoric POK\u00e9MON that died out when its heavy shell made it impossible to catch prey."
 		},
 		"140": {
 			"Name": "Kabuto",
@@ -1538,7 +2301,16 @@
 			"Defense": 90,
 			"Sp. Atk": 55,
 			"Sp. Def": 45,
-			"Speed": 55
+			"Speed": 55,
+			"Species": "Shellfish Pok\u00e9mon",
+			"Height": "0.5\u00a0m (1\u203208\u2033)",
+			"Weight": "11.5\u00a0kg (25.4\u00a0lbs)",
+			"Abilities": [
+				"Swift Swim",
+				"Battle Armor",
+				"Weak Armor (hidden ability)"
+			],
+			"Entry": "A POK\u00e9MON that was resurrected from a fossil found in what was once the ocean floor eons ago."
 		},
 		"141": {
 			"Name": "Kabutops",
@@ -1549,7 +2321,16 @@
 			"Defense": 105,
 			"Sp. Atk": 65,
 			"Sp. Def": 70,
-			"Speed": 80
+			"Speed": 80,
+			"Species": "Shellfish Pok\u00e9mon",
+			"Height": "1.3\u00a0m (4\u203203\u2033)",
+			"Weight": "40.5\u00a0kg (89.3\u00a0lbs)",
+			"Abilities": [
+				"Swift Swim",
+				"Battle Armor",
+				"Weak Armor (hidden ability)"
+			],
+			"Entry": "Its sleek shape is perfect for swimming. It slashes prey with its claws and drains the body fluids."
 		},
 		"142": {
 			"Name": "Aerodactyl",
@@ -1560,7 +2341,12 @@
 			"Defense": 65,
 			"Sp. Atk": 60,
 			"Sp. Def": 75,
-			"Speed": 130
+			"Speed": 130,
+			"Species": "Fossil Pok\u00e9mon",
+			"Height": "1.8\u00a0m (5\u203211\u2033)",
+			"Weight": "59.0\u00a0kg (130.1\u00a0lbs)",
+			"Abilities": ["Rock Head", "Pressure", "Unnerve (hidden ability)"],
+			"Entry": "A ferocious, prehistoric POK\u00e9MON that goes for the enemy\u2019s throat with its serrated saw-like fangs."
 		},
 		"143": {
 			"Name": "Snorlax",
@@ -1571,7 +2357,12 @@
 			"Defense": 65,
 			"Sp. Atk": 65,
 			"Sp. Def": 110,
-			"Speed": 30
+			"Speed": 30,
+			"Species": "Sleeping Pok\u00e9mon",
+			"Height": "2.1\u00a0m (6\u203211\u2033)",
+			"Weight": "460.0\u00a0kg (1014.1\u00a0lbs)",
+			"Abilities": ["Immunity", "Thick Fat", "Gluttony (hidden ability)"],
+			"Entry": "Very lazy. Just eats and sleeps. As its rotund bulk builds, it becomes steadily more slothful."
 		},
 		"144": {
 			"Name": "Articuno",
@@ -1582,7 +2373,12 @@
 			"Defense": 100,
 			"Sp. Atk": 95,
 			"Sp. Def": 125,
-			"Speed": 85
+			"Speed": 85,
+			"Species": "Freeze Pok\u00e9mon",
+			"Height": "1.7\u00a0m (5\u203207\u2033)",
+			"Weight": "55.4\u00a0kg (122.1\u00a0lbs)",
+			"Abilities": ["Pressure", "Snow Cloak (hidden ability)"],
+			"Entry": "A legendary bird POK\u00e9MON that is said to appear to doomed people who are lost in icy mountains."
 		},
 		"145": {
 			"Name": "Zapdos",
@@ -1593,7 +2389,12 @@
 			"Defense": 85,
 			"Sp. Atk": 125,
 			"Sp. Def": 90,
-			"Speed": 100
+			"Speed": 100,
+			"Species": "Electric Pok\u00e9mon",
+			"Height": "1.6\u00a0m (5\u203203\u2033)",
+			"Weight": "52.6\u00a0kg (116.0\u00a0lbs)",
+			"Abilities": ["Pressure", "Static (hidden ability)"],
+			"Entry": "A legendary bird POK\u00e9MON that is said to appear from clouds while dropping enormous lightning bolts."
 		},
 		"146": {
 			"Name": "Moltres",
@@ -1604,7 +2405,12 @@
 			"Defense": 90,
 			"Sp. Atk": 125,
 			"Sp. Def": 85,
-			"Speed": 90
+			"Speed": 90,
+			"Species": "Flame Pok\u00e9mon",
+			"Height": "2.0\u00a0m (6\u203207\u2033)",
+			"Weight": "60.0\u00a0kg (132.3\u00a0lbs)",
+			"Abilities": ["Pressure", "Flame Body (hidden ability)"],
+			"Entry": "Known as the legendary bird of fire. Every flap of its wings creates a dazzling flash of flames."
 		},
 		"147": {
 			"Name": "Dratini",
@@ -1615,7 +2421,12 @@
 			"Defense": 45,
 			"Sp. Atk": 50,
 			"Sp. Def": 50,
-			"Speed": 50
+			"Speed": 50,
+			"Species": "Dragon Pok\u00e9mon",
+			"Height": "1.8\u00a0m (5\u203211\u2033)",
+			"Weight": "3.3\u00a0kg (7.3\u00a0lbs)",
+			"Abilities": ["Shed Skin", "Marvel Scale (hidden ability)"],
+			"Entry": "Long considered a mythical POK\u00e9MON until recently when a small colony was found living underwater."
 		},
 		"148": {
 			"Name": "Dragonair",
@@ -1626,7 +2437,12 @@
 			"Defense": 65,
 			"Sp. Atk": 70,
 			"Sp. Def": 70,
-			"Speed": 70
+			"Speed": 70,
+			"Species": "Dragon Pok\u00e9mon",
+			"Height": "4.0\u00a0m (13\u203201\u2033)",
+			"Weight": "16.5\u00a0kg (36.4\u00a0lbs)",
+			"Abilities": ["Shed Skin", "Marvel Scale (hidden ability)"],
+			"Entry": "A mystical POK\u00e9MON that exudes a gentle aura. Has the ability to change climate conditions."
 		},
 		"149": {
 			"Name": "Dragonite",
@@ -1637,7 +2453,12 @@
 			"Defense": 95,
 			"Sp. Atk": 100,
 			"Sp. Def": 100,
-			"Speed": 80
+			"Speed": 80,
+			"Species": "Dragon Pok\u00e9mon",
+			"Height": "2.2\u00a0m (7\u203203\u2033)",
+			"Weight": "210.0\u00a0kg (463.0\u00a0lbs)",
+			"Abilities": ["Inner Focus", "Multiscale (hidden ability)"],
+			"Entry": "An extremely rarely seen marine POK\u00e9MON. Its intelligence is said to match that of humans."
 		},
 		"150": {
 			"Name": "Mewtwo",
@@ -1648,7 +2469,12 @@
 			"Defense": 90,
 			"Sp. Atk": 154,
 			"Sp. Def": 90,
-			"Speed": 130
+			"Speed": 130,
+			"Species": "Genetic Pok\u00e9mon",
+			"Height": "2.0\u00a0m (6\u203207\u2033)",
+			"Weight": "122.0\u00a0kg (269.0\u00a0lbs)",
+			"Abilities": ["Pressure", "Unnerve (hidden ability)"],
+			"Entry": "It was created by a scientist after years of horrific gene splicing and DNA engineering experiments."
 		},
 		"151": {
 			"Name": "Mew",
@@ -1659,7 +2485,12 @@
 			"Defense": 100,
 			"Sp. Atk": 100,
 			"Sp. Def": 100,
-			"Speed": 100
+			"Speed": 100,
+			"Species": "New Species Pok\u00e9mon",
+			"Height": "0.4\u00a0m (1\u203204\u2033)",
+			"Weight": "4.0\u00a0kg (8.8\u00a0lbs)",
+			"Abilities": [" Synchronize"],
+			"Entry": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide."
 		}
 	},
 	"Types": {
