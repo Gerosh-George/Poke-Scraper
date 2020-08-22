@@ -2984,9 +2984,9 @@
 			"Big": "https://img.pokemondb.net/artwork/sandslash.jpg"
 		},
 		"29": {
-			"Home": "https://img.pokemondb.net/sprites/home/normal/nidoran\u2640.png",
-			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/nidoran\u2640.gif",
-			"Big": "https://img.pokemondb.net/artwork/nidoran\u2640.jpg"
+			"Home": "https://img.pokemondb.net/sprites/home/normal/nidoran-f.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/nidoran-f.gif",
+			"Big": "https://img.pokemondb.net/artwork/nidoran-f.jpg"
 		},
 		"30": {
 			"Home": "https://img.pokemondb.net/sprites/home/normal/nidorina.png",
@@ -2999,9 +2999,9 @@
 			"Big": "https://img.pokemondb.net/artwork/nidoqueen.jpg"
 		},
 		"32": {
-			"Home": "https://img.pokemondb.net/sprites/home/normal/nidoran\u2642.png",
-			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/nidoran\u2642.gif",
-			"Big": "https://img.pokemondb.net/artwork/nidoran\u2642.jpg"
+			"Home": "https://img.pokemondb.net/sprites/home/normal/nidoran-m.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/nidoran-m.gif",
+			"Big": "https://img.pokemondb.net/artwork/nidoran-m.jpg"
 		},
 		"33": {
 			"Home": "https://img.pokemondb.net/sprites/home/normal/nidorino.png",
@@ -3254,9 +3254,9 @@
 			"Big": "https://img.pokemondb.net/artwork/magneton.jpg"
 		},
 		"83": {
-			"Home": "https://img.pokemondb.net/sprites/home/normal/farfetch'd.png",
-			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/farfetch'd.gif",
-			"Big": "https://img.pokemondb.net/artwork/farfetch'd.jpg"
+			"Home": "https://img.pokemondb.net/sprites/home/normal/farfetchd.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/farfetchd.gif",
+			"Big": "https://img.pokemondb.net/artwork/farfetchd.jpg"
 		},
 		"84": {
 			"Home": "https://img.pokemondb.net/sprites/home/normal/doduo.png",
@@ -3449,9 +3449,9 @@
 			"Big": "https://img.pokemondb.net/artwork/starmie.jpg"
 		},
 		"122": {
-			"Home": "https://img.pokemondb.net/sprites/home/normal/mr. mime.png",
-			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/mr. mime.gif",
-			"Big": "https://img.pokemondb.net/artwork/mr. mime.jpg"
+			"Home": "https://img.pokemondb.net/sprites/home/normal/mr-mime.png",
+			"Sprite": "https://img.pokemondb.net/sprites/black-white/anim/normal/mr-mime.gif",
+			"Big": "https://img.pokemondb.net/artwork/mr-mime.jpg"
 		},
 		"123": {
 			"Home": "https://img.pokemondb.net/sprites/home/normal/scyther.png",
