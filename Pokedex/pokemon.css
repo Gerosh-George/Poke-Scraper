@@ -19,6 +19,7 @@ body {
     padding-left: 50px;
 }
 
+
 .white_b{
   background-color: white;
     height: 100%;
@@ -34,29 +35,37 @@ body {
 }
 
 .info-right{
-    color: #212121;
-    float:right;
+    color: white;
+    float:left;
     width: 49%;
     line-height: 150%;
     display: block;
     font-family: "Flexo-Medium",arial,sans-serif;
+    margin-bottom: 100px;
+    position: relative;
+    top: 70px;
 }
 
 .table_attr{
     background-color: #30a7d7;
-    float:right;
+    float:left;
     width:50%;
     display: block;
     border-radius:10px;
     position: relative;
+    margin-bottom: 30px;
+    
 }
-
+table{
+    border-spacing: 20px;
+}
 th {
     color: white;
 }
 
 td{
     color: black;
+    text-align: center;
 }
 
 .type{
@@ -215,12 +224,13 @@ h2{
 
 }
 .histo {
- float:left;
+ float:right;
   width: 50%;
   font-size: 13px;
   background-color: #262626;
   border-radius: 10px;
 color: whitesmoke;
+    margin-right: 90px;
 }
 
 .histo-star {
