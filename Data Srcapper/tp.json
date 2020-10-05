@@ -1,0 +1,41 @@
+{
+    "pokemon":{
+        "1":{
+            "Name":"Bulbasaur",
+            "Type":["Grass","Poison"],
+            "Total":"318",
+            "HP":"45",
+            "Attack":"49",
+            "Defense":"49",
+            "Sp.Atk":"65",
+            "Sp.Def":"65",
+            "Speed":45
+        }
+    },
+
+    "types":{
+        "Grass":{
+            "#":["1"],
+            "Strong Against":["Ground","Rock","Water"],
+            "Weak Against":["Flying","Poison","Bug","Steel","Fire","Grass","Dragon"],
+            "Resistant To":["Ground","Water","Grass","Electric"],
+            "Vulnerable To":["Flying","Poison","Bug","Fire","Ice"]
+        },
+
+        "Poison":{
+            "#":["1"],
+            "Strong Against":["Grass","Fairy"],
+            "Weak Against":["Ground","Poison","Rock","Ghost","Steel"],
+            "Resistant To":["Fighting","Poison","Grass","Fairy"],
+            "Vulnerable To":["Ground","Psychic"]
+        }
+
+    },
+
+    "images":{
+        "1":{
+            "home":"https://img.pokemondb.net/sprites/home/normal/bulbasaur.png",
+            "spirit":"https://img.pokemondb.net/sprites/sword-shield/normal/bulbasaur.png"
+        }
+    }
+}
