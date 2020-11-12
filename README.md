@@ -26,6 +26,14 @@ A hash function is any function that can be used to map data of arbitrary size t
 ## Dictionary (Python)
 A dictionary is defined as a general-purpose data structure for storing a group of objects. A dictionary is associated with a set of keys and each key has a single associated value. When presented with a key, the dictionary will simply return the associated value.
 
+## JSON
+JSON is built on two structures:
+
+  - A collection of name/value pairs. In various languages, this is realized as an object, record, struct, dictionary, hash table, keyed list, or associative array.
+  - An ordered list of values. In most languages, this is realized as an array, vector, list, or sequence.
+
+These are universal data structures. Virtually all modern programming languages support them in one form or another. It makes sense that a data format that is interchangeable with programming languages also be based on these structures.
+
 
 
 
