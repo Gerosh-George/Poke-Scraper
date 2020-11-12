@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" type="text/css" href="../Pokedex/CSS/sort_style.css">
+        <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400,400i,700i" rel="stylesheet">
+    <title>Filter-Stats</title>
+</head>
+
+<body onload="def();">
+ <button id="back" onClick="window.history.back();"><i class="fa fa-arrow-left"></i></button>   
+    <div class="hero">
+      <h1><span>STATS</span>
+      </h1>
+    </div>
+
+    <div class="selector">
+          <select id="stat-select" onchange="selection();">
+              <option value="Total" selected>Total</option>
+              <option value="HP">HP</option>
+              <option value="Attack">Attack</option>
+              <option value="Defense">Defense</option>
+              <option value="Sp. Atk">Sp. Attack</option>
+              <option value="Sp. Def">Sp. Defense</option>
+              <option value="Speed">Speed</option>
+              </select>
+
+              <select id="order-select" class="fa" onchange="selection();">
+              <option value="fa fa-sort-asc" id="inc">&#xf0de;</option>
+              <option value="fa fa-sort-desc" id="desc" selected>&#xf0dd;</option>
+          </select>
+     </div> 
+     
+     <div id="output">
+         <div id="list-container-sprite">
+         </div>
+         <div id="list-container-name">
+         </div>
+         <div id="list-container-stat">
+         </div>
+      </div> 
+      
+   <script src="../Pokedex/JS/cards.js"></script>
+   <script src="../Pokedex/JS/sort.js"></script>
+</body>
+</html>

@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat&family=Poppins&display=swap');
+
+#output{
+    display: inline-flex;
+    margin: auto;
+    margin-top: 30px;
+    width: 60%;
+    margin-left: 35%;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+    font-size: 35px;
+    color: #262626;
+}
+
+#list-container-name {
+    width: 40%;
+    
+}
+
+.list-item-name {
+    cursor: pointer;
+    display: inline-flex;
+    margin-left: 20px;
+    display: block;
+}
+
+
+.list-item-name:hover {
+    color: whitesmoke;
+    background-color: #262626;
+    transition: 0.1s;
+}
+
+#list-container-id {
+    float: right;
+    margin-left: 30px;
+}
+
+.sprites {
+    margin-left: -30px;
+}

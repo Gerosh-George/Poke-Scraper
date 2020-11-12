@@ -4,40 +4,57 @@
     <meta charset="UTF-8">
     <title>About Us</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    
     <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400,400i,700i" rel="stylesheet">
-    
-     <link rel="stylesheet" href="style.css">
-      <link rel="stylesheet" href="master.css">
-    
-
-    
+    <link rel="stylesheet" href="../Pokedex/CSS/style.css">
+    <link rel="stylesheet" href="../Pokedex/CSS/card.css">
+    <link rel="stylesheet" href="../Pokedex/CSS/card.css">
+    <link rel="stylesheet" href="../Pokedex/CSS/about.css">
 </head>
-<body>
+<body class="about">
+   
     <nav role='navigation' id="mainnav">
-    <br><br><br>
-  <ul class="gap">
-    <li><a href="home.html">HOME</a></li>
-    <li><a href="types.html">TYPES</a></li>
-    <li><a href="search.html">SEARCH</a></li>
-    <li><a href="#">ABOUT US</a></li>
+          <br><br><br>
+          <ul class="gap">
+            <li><a href="index.html">HOME</a></li>
+            <li>
+                <div class="right-menu">
+                   <button class="menu-btn" href="#">FILTER   <i class="fa fa-caret-right"></i></button>
+                        <div class="dropdown-menu">
+                            <a class="dropdown-item" href="types.html">TYPES</a><br><br>
+                            <a class="dropdown-item" href="filter.html">STATS</a><br><br>
+                        </div>
+                </div>
+            </li>
+            <li><a href="#">ABOUT US</a></li>
+          </ul>
+    </nav>  
 
- 
-  </ul>
-</nav>  
+    <div class="hamb">
+        <a href="#"><i class="fa fa-bars"></i></a>
+    </div>
+<!--    <div class="about">-->
+    <div class="hero">
+        <h1><span>ABOUT US</span></h1>
+    </div>
+    
+    <div class="about-container">
+        <h4>The Team</h4>
+        <div id="names">
+            <h5>Dimish Pamnani - <a class="git" href="https://github.com/Dimish18">https://github.com/Dimish18</a></h5>
+            <h5>Farhaan Tinwala - <a class="git" href="https://github.com/Farhaan14">https://github.com/Farhaan14</a></h5>
+            <h5>Gerosh George - <a class="git" href="https://github.com/Gerosh-George">https://github.com/Gerosh-George</a></h5>
+            <h5>Vaasu Bhatnagar - <a class="git" href="https://github.com/theLight19">https://github.com/theLight19</a></h5>
+        </div>
+        <h4>The Project</h4>
+        <div id="project">
+            <h5><a class="git" href="https://github.com/Gerosh-George/Pokedex">https://github.com/Gerosh-George/Pokedex</a></h5>
+        </div>
+    </div>
 
-<div class="hamb">
-  <a href="#"><i class="fa fa-bars"></i></a>
-</div>
-
-  <div class="hero">
-      <h1><span>ABOUT US</span></h1>
-  </div>
-
-<canvas id="bubble"></canvas>
-
+    <canvas id="bubble"></canvas>
+<!--    </div>-->
     <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.10.3/jquery-ui.js"></script>
-    <script type="text/javascript" src="script.js"></script>
+    <script type="text/javascript" src="../Pokedex/JS/script.js"></script>
 </body>
 </html>

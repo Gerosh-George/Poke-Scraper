@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Secular+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat&family=Poppins&display=swap');
+
+.about{
+    background-color: #404040;
+}
+
+.about-container {
+    color: whitesmoke;
+/*    margin-left: 200px;*/
+    text-align: center;
+}
+
+h4 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+    font-size: 60px;
+}
+
+#names, #project {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 35px;
+    margin-top: 50px;
+}
+
+
+.git:link, .git:visited, .git:active {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.git:hover {
+    color: #404040;
+    background-color: whitesmoke;
+    text-decoration: none;
+}

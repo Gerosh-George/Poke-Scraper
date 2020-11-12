@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Pokemon Info</title>
+    <link rel="stylesheet" href="../Pokedex/CSS/pokemon.css">
+    <link rel="stylesheet" href="../Pokedex/CSS/output.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+
+   <button id="back" onClick="window.history.back();"><i class="fa fa-arrow-left"></i></button>
+    <div class="container">
+        
+        <div class="heading">
+            <div class="arrange">
+                <div id="type_image"></div>
+                <h1 id="type_name"></h1>
+            </div>
+        </div>
+        
+        <div id="first">
+            <div></div>
+<!--            <div id="entry"></div>-->
+        </div>
+        
+        <div class="strong-against">
+            <h3> STRONG AGAINST </h3>
+            <div id="strong-container-type"></div>
+        </div>
+        <div class="weak-against">
+            <h3> WEAK AGAINST </h3>
+            <div id="weak-container-type"></div>
+        </div>
+        <div class="resistant-to">
+            <h3> RESISTANT TO </h3>
+            <div id="resistant-container-type"></div>
+        </div>
+        <div class="vulnerable-to">
+            <h3> VULNERABLE TO </h3>
+            <div id="vulnerable-container-type"></div>
+        </div>
+        <br><br>
+        <h3> POK&Eacute;MON </h3>
+        <div id="output">
+         <div id="list-container-sprite">
+         </div>
+         <div id="list-container-name">
+         </div>
+         <div id="list-container-id">
+         </div>
+      </div>
+      
+    </div>
+     
+     
+      
+    <script>
+        document.title = localStorage.getItem('type_name');
+    </script>
+    
+    <script type="text/javascript" src="../Pokedex/JS/type_home.js"></script>
+    <script type="text/javascript" src="../Pokedex/JS/cards.js"></script>
+    
+    <script type="text/javascript" src="../Pokedex/JS/type_script.js"></script>
+</body>
+</html>

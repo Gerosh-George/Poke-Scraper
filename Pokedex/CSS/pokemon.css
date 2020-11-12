@@ -1,0 +1,462 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat&family=Poppins&display=swap');
+
+/*
+font-family: 'Bebas Neue', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Poppins', sans-serif;
+*/
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #404040;
+}
+
+.container{
+    margin:auto;
+    margin-top: 50px;
+    width: 65%;
+    border: 3px solid white;
+    padding: 20px;
+    background-color: white;
+}
+
+.heading{
+    text-align: center;
+}
+
+#pokemon_id{
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+}
+#pokemon_name{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 60px;
+    font-weight: 900;
+}
+.arrange{
+    margin: auto;
+    width: 45%;
+}
+#type_name{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 60px;
+    font-weight: 900;
+    float: left;
+    vertical-align: middle;
+    line-height: 130px;
+    margin-left: 30px;
+}
+#type_image{
+    float: left;
+}
+
+.image{
+    object-fit: contain;
+}
+
+
+
+#first{
+    display: flex;
+    overflow: auto;
+    align-items: center;
+    width: 99%;
+}
+
+#entry {
+    float: right;
+    padding-left: 70px;
+    padding-bottom: 40px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+.table_attr {
+    border-collapse: collapse;
+    margin: auto;
+/*    margin-top: 50px;*/
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    width: 70%;
+    padding: 20px;
+}
+
+table {
+    margin: auto;
+    width: 100%;
+    border-spacing: 5px 1px;
+}
+
+.table_attr th {
+/*    background-color: #009879;*/
+    background-color: #ff8c42;
+    color: #ffffff;
+    text-align: left;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.table_attr th,
+.table_attr td {
+    padding: 12px 15px;
+}
+
+.table_attr td{
+    font-family: 'Poppins', sans-serif;
+}
+
+tr:hover{
+    background-color: #D3D3D3;
+}
+
+.stats{
+    margin: auto;
+    margin-top: 70px;
+    width: 100%;
+    padding-bottom: 100px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+}
+
+.histo {
+    margin: auto;
+    width: 100%;
+}
+
+.histo-star {
+    float: left;
+    padding: 10px;
+    width: 120px;
+   
+}
+
+.histo-rate {
+    width: 100%;
+    display: block;
+    clear: both;
+}
+
+.bar-block {
+    margin: auto;
+    color: black;
+    display: block;
+    float: left;
+    width: 80%;
+    margin-top: 4px;
+    margin-left: 10px;
+}
+
+.bar {
+    padding: 4px;
+    display: block;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    margin-top: 40px;
+    width: 100%;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+/*TYPES*/
+
+.Fire{
+    color: whitesmoke;
+    display: block;
+    background-color: #ff4422;
+    line-height: 100%;
+    padding: 5px;
+    border-radius: 5px;
+    width: 32.39%;
+    margin:0.5em 0 0 33%;
+    text-align: center; 
+    text-shadow: 1px 1px #262626;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+.Grass{
+    color: whitesmoke;
+    display: block;
+    background-color: #77cc55;
+    line-height: 100%;
+    padding: 5px;
+    border-radius: 5px;
+    width: 32.39%;
+    margin:0.5em 0 0 33%;
+    text-align: center; 
+    text-shadow: 1px 1px #262626;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+.Electric{
+   color: whitesmoke;
+    display: block;
+    background-color: #ffcc33;
+    line-height: 100%;
+    padding: 5px;
+    border-radius: 5px;
+    width: 32.39%;
+    margin:0.5em 0 0 33%;
+    text-align: center; 
+    text-shadow: 1px 1px #262626;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+.Water{
+   color: whitesmoke;
+    display: block;
+    background-color: #3399ff;
+    line-height: 100%;
+    padding: 5px;
+    border-radius: 5px;
+    width: 32.39%;
+    margin:0.5em 0 0 33%;
+    text-align: center; 
+    text-shadow: 1px 1px #262626;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+.Ground{
+    color: whitesmoke;
+    display: block;
+    background-color: #dcba55;
+    line-height: 100%;
+    padding: 5px;
+    border-radius: 5px;
+    width: 32.39%;
+    margin:0.5em 0 0 33%;
+    text-align: center; 
+    text-shadow: 1px 1px #262626;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+.Rock{
+    color: whitesmoke;
+    display: block;
+    background-color: #bbaa66;
+    line-height: 100%;
+    padding: 5px;
+    border-radius: 5px;
+    width: 32.39%;
+    margin:0.5em 0 0 33%;
+    text-align: center; 
+    text-shadow: 1px 1px #262626;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+.Fairy{
+    color: whitesmoke;
+    display: block;
+    background-color: #ee99ee;
+    line-height: 100%;
+    padding: 5px;
+    border-radius: 5px;
+    width: 32.39%;
+    margin:0.5em 0 0 33%;
+    text-align: center; 
+    text-shadow: 1px 1px #262626;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+.Poison{
+    color: whitesmoke;
+    display: block;
+    background-color: #aa5599;
+    line-height: 100%;
+    padding: 5px;
+    border-radius: 5px;
+    width: 32.39%;
+    margin:0.5em 0 0 33%;
+    text-align: center; 
+    text-shadow: 1px 1px #262626;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+.Bug{
+    color: whitesmoke;
+    display: block;
+    background-color: #aabb22;
+    line-height: 100%;
+    padding: 5px;
+    border-radius: 5px;
+    width: 32.39%;
+    margin:0.5em 0 0 33%;
+    text-align: center; 
+    text-shadow: 1px 1px #262626;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+.Dragon{
+    color: whitesmoke;
+    display: block;
+    background-color: #6253c3;
+    line-height: 100%;
+    padding: 5px;
+    border-radius: 5px;
+    width: 32.39%;
+    margin:0.5em 0 0 33%;
+    text-align: center; 
+    text-shadow: 1px 1px #262626;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+.Psychic{
+    color: whitesmoke;
+    display: block;
+    background-color: #ff5599;
+    line-height: 100%;
+    padding: 5px;
+    border-radius: 5px;
+    width: 32.39%;
+    margin:0.5em 0 0 33%;
+    text-align: center; 
+    text-shadow: 1px 1px #262626;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+.Flying{
+    color: whitesmoke;
+    display: block;
+    background-color: #8899ff;
+    line-height: 100%;
+    padding: 5px;
+    border-radius: 5px;
+    width: 32.39%;
+    margin:0.5em 0 0 33%;
+    text-align: center; 
+    text-shadow: 1px 1px #262626;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+.Fighting{
+    color: whitesmoke;
+    display: block;
+    background-color: #bb5544;
+    line-height: 100%;
+    padding: 5px;
+    border-radius: 5px;
+    width: 32.39%;
+    margin:0.5em 0 0 33%;
+    text-align: center; 
+    text-shadow: 1px 1px #262626;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+.Normal{
+    color: whitesmoke;
+    display: block;
+    background-color: #aaaa99;
+    line-height: 100%;
+    padding: 5px;
+    border-radius: 5px;
+    width: 32.39%;
+    margin:0.5em 0 0 33%;
+    text-align: center; 
+    text-shadow: 1px 1px #262626;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+.Ice{
+    color: whitesmoke;
+    display: block;
+    background-color: #66ccff;
+    line-height: 100%;
+    padding: 5px;
+    border-radius: 5px;
+    width: 32.39%;
+    margin:0.5em 0 0 33%;
+    text-align: center; 
+    text-shadow: 1px 1px #262626;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+.Dark{
+    color: whitesmoke;
+    display: block;
+    background-color: #775544;
+    line-height: 100%;
+    padding: 5px;
+    border-radius: 5px;
+    width: 32.39%;
+    margin:0.5em 0 0 33%;
+    text-align: center; 
+    text-shadow: 1px 1px #262626;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+.Ghost{
+    color: whitesmoke;
+    display: block;
+    background-color: #6666bb;
+    line-height: 100%;
+    padding: 5px;
+    border-radius: 5px;
+    width: 32.39%;
+    margin:0.5em 0 0 33%;
+    text-align: center; 
+    text-shadow: 1px 1px #262626;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+.Steel{
+    color: whitesmoke;
+    display: block;
+    background-color: #aaaabb;
+    line-height: 100%;
+    padding: 5px;
+    border-radius: 5px;
+    width: 32.39%;
+    margin:0.5em 0 0 33%;
+    text-align: center; 
+    text-shadow: 1px 1px #262626;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+
+#back {
+    outline: none;
+    background-color: transparent;
+    cursor: pointer;
+    color: white;
+    border: none;
+    font-size: 40px; 
+    position: fixed;
+    top: 20px;
+    left: 20px;
+}
