@@ -94,14 +94,18 @@ function display_pokemon(stat){
     var div;
     var div1;
     var div2;
-    
+    var div3;
+    var div4;
     
     if(orderSelected == "inc"){
         for(var i=0;i<151;i++){
             var count = arr[i];
             div1 = document.createElement('div');
-            div1.innerHTML = `<img class="list-item-sprite" src="${sprites[count]['Sprite']}" height="35px" width="35px"><div class="list-item-name" onclick="choose(${count});">${pokemons[arr[i]]['Name']}</div>`;
+            div3 = document.createElement('div');
+            div1.innerHTML = `<div class="list-item-name" onclick="choose(${count});">${pokemons[arr[i]]['Name']}</div>`;
+            div3.innerHTML = `<img class="list-item-sprite" src="${sprites[count]['Sprite']}" height="35px" width="35px">`;
             list_name.appendChild(div1);
+            list_sprite.appendChild(div3);
         }
         for(var i=0;i<151;i++){
             var count = arr[i];
@@ -114,8 +118,11 @@ function display_pokemon(stat){
         for(var i=150;i>=0;i--){
             var count = arr[i];
             div1 = document.createElement('div');
-            div1.innerHTML = `<img class="list-item-sprite" src="${sprites[count]['Sprite']}" height="35px" width="35px"><div class="list-item-name" onclick="choose(${count});">${pokemons[arr[i]]['Name']}</div>`;
+            div3 = document.createElement('div');
+            div1.innerHTML = `<div class="list-item-name" onclick="choose(${count});">${pokemons[arr[i]]['Name']}</div>`;
+            div3.innerHTML = `<img class="list-item-sprite" src="${sprites[count]['Sprite']}" height="35px" width="35px">`;
             list_name.appendChild(div1);
+            list_sprite.appendChild(div3);
         }
         for(var i=150;i>=0;i--){
             var count = arr[i];
