@@ -77,11 +77,15 @@ id_arr = id_arr.filter((value,index) => id_arr.indexOf(value) === index);
 //            div6.className = id_arr[i];
             id.appendChild(div6);  
         }
+    if(id_arr.length <= 1){
+        id.innerHTML = "";
+    }
 
 var name_arr = poke_names.split(",");
 name_arr = name_arr.filter((value,index) => name_arr.indexOf(value) === index);
     var n = document.getElementById('list-container-name');
     var div7;
+    
     for(var i in name_arr) 
         {
             div7 = document.createElement('div');
@@ -89,11 +93,16 @@ name_arr = name_arr.filter((value,index) => name_arr.indexOf(value) === index);
             div7.className = "list-item-name";
             n.appendChild(div7);  
         }
+    if(name_arr.length <= 1){
+        n.innerHTML = "";
+    }
+
 
 var sprite_arr = poke_sprites.split(",");
 sprite_arr = sprite_arr.filter((value,index) => sprite_arr.indexOf(value) === index);
     var s = document.getElementById('list-container-sprite');
     var div8;
+    
     for(var i in sprite_arr) 
         {
             div8 = document.createElement('div');
@@ -101,6 +110,9 @@ sprite_arr = sprite_arr.filter((value,index) => sprite_arr.indexOf(value) === in
 //            div6.className = id_arr[i];
             s.appendChild(div8);  
         }
+    if(sprite_arr.length <= 1){
+        s.innerHTML = "Pok&eacutemon Data Not Available";
+    }
 
 window.onload = function() {
     
